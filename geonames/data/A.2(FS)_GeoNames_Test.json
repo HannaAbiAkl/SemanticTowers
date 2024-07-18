@@ -1,0 +1,5102 @@
+[
+    {
+        "ID": 19,
+        "term": "Coll de Vista"
+    },
+    {
+        "ID": 22,
+        "term": "Canal de la Vinya"
+    },
+    {
+        "ID": 24,
+        "term": "Torrent de Vila"
+    },
+    {
+        "ID": 27,
+        "term": "Pla de Vias"
+    },
+    {
+        "ID": 53,
+        "term": "Vall d'Incles"
+    },
+    {
+        "ID": 57,
+        "term": "Cascada de la Vall del Riu"
+    },
+    {
+        "ID": 66,
+        "term": "Estanys de la Val del Riu"
+    },
+    {
+        "ID": 95,
+        "term": "Canal del Tosquer"
+    },
+    {
+        "ID": 100,
+        "term": "Tosa de les Mussoles"
+    },
+    {
+        "ID": 103,
+        "term": "Planell de la Tosa"
+    },
+    {
+        "ID": 123,
+        "term": "Planell de la Tora"
+    },
+    {
+        "ID": 140,
+        "term": "Canal del Terrer Roig"
+    },
+    {
+        "ID": 143,
+        "term": "Terregalls"
+    },
+    {
+        "ID": 146,
+        "term": "Canal del Teixo"
+    },
+    {
+        "ID": 149,
+        "term": "Coma Tarterosa"
+    },
+    {
+        "ID": 156,
+        "term": "Roc del Tampuent"
+    },
+    {
+        "ID": 158,
+        "term": "Bosc de la Tallada Nova"
+    },
+    {
+        "ID": 163,
+        "term": "Sudornar"
+    },
+    {
+        "ID": 173,
+        "term": "Collada de les Soronelles"
+    },
+    {
+        "ID": 210,
+        "term": "Obagot de la Solana del Forn"
+    },
+    {
+        "ID": 211,
+        "term": "Solana del Forn"
+    },
+    {
+        "ID": 218,
+        "term": "Sola de Soldeu"
+    },
+    {
+        "ID": 250,
+        "term": "Riu del Sola"
+    },
+    {
+        "ID": 263,
+        "term": "Riu del Sisquero"
+    },
+    {
+        "ID": 283,
+        "term": "Setut"
+    },
+    {
+        "ID": 319,
+        "term": "Canal del Seig"
+    },
+    {
+        "ID": 388,
+        "term": "Cortal del Sabater"
+    },
+    {
+        "ID": 403,
+        "term": "Bosc de Roures"
+    },
+    {
+        "ID": 409,
+        "term": "Pleta de les Romes"
+    },
+    {
+        "ID": 411,
+        "term": "Bassa Roja"
+    },
+    {
+        "ID": 429,
+        "term": "Bosc del Roc Gros"
+    },
+    {
+        "ID": 437,
+        "term": "Planell de la Roca Grossa"
+    },
+    {
+        "ID": 454,
+        "term": "Prats del Riu"
+    },
+    {
+        "ID": 455,
+        "term": "Canal de Rita"
+    },
+    {
+        "ID": 458,
+        "term": "Bordes de Rigoder"
+    },
+    {
+        "ID": 490,
+        "term": "Llanesques de les Rebes"
+    },
+    {
+        "ID": 496,
+        "term": "Rasa de Perafita"
+    },
+    {
+        "ID": 499,
+        "term": "Presa de Ransol"
+    },
+    {
+        "ID": 506,
+        "term": "Cami Ral"
+    },
+    {
+        "ID": 511,
+        "term": "Clots de la Raconada de la Maiana"
+    },
+    {
+        "ID": 519,
+        "term": "Canya de la Rabassa"
+    },
+    {
+        "ID": 523,
+        "term": "Pleta del Querol"
+    },
+    {
+        "ID": 531,
+        "term": "Roc de Quer"
+    },
+    {
+        "ID": 565,
+        "term": "Font del Prat de Roca"
+    },
+    {
+        "ID": 567,
+        "term": "Basers del Prat del Quart"
+    },
+    {
+        "ID": 572,
+        "term": "Solana del Prat del Bosc"
+    },
+    {
+        "ID": 575,
+        "term": "Bosc del Prat del Bosc"
+    },
+    {
+        "ID": 577,
+        "term": "Basera del Prat de la Farga"
+    },
+    {
+        "ID": 585,
+        "term": "Bosc de les Poselletes"
+    },
+    {
+        "ID": 588,
+        "term": "Font de la Posada"
+    },
+    {
+        "ID": 591,
+        "term": "Pic del Port Vell"
+    },
+    {
+        "ID": 614,
+        "term": "Clot del Port"
+    },
+    {
+        "ID": 628,
+        "term": "Canal de la Pleta dels Llacs"
+    },
+    {
+        "ID": 630,
+        "term": "Canals de la Pleta del Llomar"
+    },
+    {
+        "ID": 631,
+        "term": "Bony de la Pleta de Jan"
+    },
+    {
+        "ID": 641,
+        "term": "Solana de les Planes"
+    },
+    {
+        "ID": 652,
+        "term": "Planells de Rialb"
+    },
+    {
+        "ID": 660,
+        "term": "Bosc de Plana en Blanca"
+    },
+    {
+        "ID": 671,
+        "term": "Bordes de la Plana"
+    },
+    {
+        "ID": 686,
+        "term": "Cami del Pla del Bosc"
+    },
+    {
+        "ID": 695,
+        "term": "Font Pixadera"
+    },
+    {
+        "ID": 696,
+        "term": "Roca del Piso"
+    },
+    {
+        "ID": 708,
+        "term": "Bosc del Pico"
+    },
+    {
+        "ID": 719,
+        "term": "Collada dels Pessons"
+    },
+    {
+        "ID": 728,
+        "term": "Pic de Percanela"
+    },
+    {
+        "ID": 739,
+        "term": "Perafita"
+    },
+    {
+        "ID": 795,
+        "term": "Pont de Pal"
+    },
+    {
+        "ID": 816,
+        "term": "Clot de l'Os"
+    },
+    {
+        "ID": 821,
+        "term": "Clots d'Ortafa"
+    },
+    {
+        "ID": 831,
+        "term": "Serrat de l'Orri"
+    },
+    {
+        "ID": 835,
+        "term": "Solana dels Oriols"
+    },
+    {
+        "ID": 848,
+        "term": "Bosc de les Obagues"
+    },
+    {
+        "ID": 904,
+        "term": "Pic Negre"
+    },
+    {
+        "ID": 918,
+        "term": "Cami de la Muntanya"
+    },
+    {
+        "ID": 933,
+        "term": "Bosc de Moreto"
+    },
+    {
+        "ID": 940,
+        "term": "Riu de Montmantell"
+    },
+    {
+        "ID": 941,
+        "term": "Pleta de Montmantell"
+    },
+    {
+        "ID": 958,
+        "term": "Carrera de Montaup"
+    },
+    {
+        "ID": 986,
+        "term": "Pont de les Moles"
+    },
+    {
+        "ID": 1016,
+        "term": "Pont de Mereig"
+    },
+    {
+        "ID": 1023,
+        "term": "Riu dels Meners"
+    },
+    {
+        "ID": 1049,
+        "term": "Carretera del Mas d'Alins"
+    },
+    {
+        "ID": 1053,
+        "term": "Sola del Mas"
+    },
+    {
+        "ID": 1072,
+        "term": "Cortals de Manyat"
+    },
+    {
+        "ID": 1085,
+        "term": "Planada dels Maians"
+    },
+    {
+        "ID": 1087,
+        "term": "Costa dels Maians"
+    },
+    {
+        "ID": 1098,
+        "term": "Basers de Madona"
+    },
+    {
+        "ID": 1102,
+        "term": "L'Orri Amagat"
+    },
+    {
+        "ID": 1113,
+        "term": "Lloset"
+    },
+    {
+        "ID": 1123,
+        "term": "Basers de la Llosada"
+    },
+    {
+        "ID": 1143,
+        "term": "Barranc del Llempo"
+    },
+    {
+        "ID": 1159,
+        "term": "Pales dels Llacs"
+    },
+    {
+        "ID": 1166,
+        "term": "Les Tres Fonts"
+    },
+    {
+        "ID": 1197,
+        "term": "Les Fargues"
+    },
+    {
+        "ID": 1210,
+        "term": "Les Canals"
+    },
+    {
+        "ID": 1222,
+        "term": "Les Agols"
+    },
+    {
+        "ID": 1264,
+        "term": "La Peguera"
+    },
+    {
+        "ID": 1266,
+        "term": "La Passera"
+    },
+    {
+        "ID": 1282,
+        "term": "La Llonga"
+    },
+    {
+        "ID": 1318,
+        "term": "La Bartra del Ganxo"
+    },
+    {
+        "ID": 1322,
+        "term": "Tosa de Juclar"
+    },
+    {
+        "ID": 1326,
+        "term": "Collada de Juclar"
+    },
+    {
+        "ID": 1337,
+        "term": "Font de la Jubanya"
+    },
+    {
+        "ID": 1340,
+        "term": "Coll Jovell"
+    },
+    {
+        "ID": 1343,
+        "term": "Canal del Jou"
+    },
+    {
+        "ID": 1353,
+        "term": "Turo de Jan"
+    },
+    {
+        "ID": 1356,
+        "term": "Coms de Jan"
+    },
+    {
+        "ID": 1366,
+        "term": "Canal de l'Infern"
+    },
+    {
+        "ID": 1376,
+        "term": "Bosc de l'Hoste"
+    },
+    {
+        "ID": 1389,
+        "term": "Tartera de les Guineus"
+    },
+    {
+        "ID": 1392,
+        "term": "Serra de la Guardiola"
+    },
+    {
+        "ID": 1399,
+        "term": "Alt del Griu"
+    },
+    {
+        "ID": 1411,
+        "term": "Plana del Grau"
+    },
+    {
+        "ID": 1427,
+        "term": "Roc del Goter"
+    },
+    {
+        "ID": 1463,
+        "term": "Borda del Gabriel"
+    },
+    {
+        "ID": 1466,
+        "term": "Font Fred"
+    },
+    {
+        "ID": 1474,
+        "term": "Canals de la Forniga"
+    },
+    {
+        "ID": 1476,
+        "term": "Font del Fornell"
+    },
+    {
+        "ID": 1487,
+        "term": "Clots del Forn"
+    },
+    {
+        "ID": 1496,
+        "term": "Forat Fosc"
+    },
+    {
+        "ID": 1498,
+        "term": "Collada del Forat de Malhiverns"
+    },
+    {
+        "ID": 1499,
+        "term": "Cresta del Forat dels Malhiverns"
+    },
+    {
+        "ID": 1503,
+        "term": "Coma del Forat"
+    },
+    {
+        "ID": 1508,
+        "term": "Tosa de les Fonts"
+    },
+    {
+        "ID": 1510,
+        "term": "Estany de les Fonts"
+    },
+    {
+        "ID": 1564,
+        "term": "Planell del Fogal"
+    },
+    {
+        "ID": 1575,
+        "term": "Canal de Fhasa"
+    },
+    {
+        "ID": 1578,
+        "term": "Font de Ferro"
+    },
+    {
+        "ID": 1595,
+        "term": "Torrent dels Fenerals"
+    },
+    {
+        "ID": 1623,
+        "term": "Serra de Falcobi"
+    },
+    {
+        "ID": 1624,
+        "term": "Canya dels Eucassers"
+    },
+    {
+        "ID": 1630,
+        "term": "Collada dels Estanys Forcats"
+    },
+    {
+        "ID": 1656,
+        "term": "Rocs de l'Estany Negre"
+    },
+    {
+        "ID": 1673,
+        "term": "Cami de l'Estany de la Nou"
+    },
+    {
+        "ID": 1700,
+        "term": "Planell de l'Espluga"
+    },
+    {
+        "ID": 1707,
+        "term": "Pic d'Escobes"
+    },
+    {
+        "ID": 1710,
+        "term": "Cami d'Escas"
+    },
+    {
+        "ID": 1725,
+        "term": "Envalira"
+    },
+    {
+        "ID": 1757,
+        "term": "Engordany"
+    },
+    {
+        "ID": 1766,
+        "term": "Riu de l'Enfreu"
+    },
+    {
+        "ID": 1774,
+        "term": "Serra d'Enclar"
+    },
+    {
+        "ID": 1785,
+        "term": "Sola d'Encampadana"
+    },
+    {
+        "ID": 1827,
+        "term": "Els Obacs"
+    },
+    {
+        "ID": 1849,
+        "term": "Els Collells"
+    },
+    {
+        "ID": 1855,
+        "term": "Els Carabedius"
+    },
+    {
+        "ID": 1857,
+        "term": "Els Botaders"
+    },
+    {
+        "ID": 1873,
+        "term": "El Pletiu"
+    },
+    {
+        "ID": 1897,
+        "term": "El Corbater"
+    },
+    {
+        "ID": 1901,
+        "term": "El Clos"
+    },
+    {
+        "ID": 1906,
+        "term": "El Bullidor"
+    },
+    {
+        "ID": 1916,
+        "term": "Canal del Duc"
+    },
+    {
+        "ID": 1919,
+        "term": "Canal del Diumenge"
+    },
+    {
+        "ID": 1920,
+        "term": "Clot del Diable"
+    },
+    {
+        "ID": 1936,
+        "term": "Bosc del Cubol"
+    },
+    {
+        "ID": 1962,
+        "term": "Canal de Costa Verda"
+    },
+    {
+        "ID": 1967,
+        "term": "Bony de la Costa del Sodorn"
+    },
+    {
+        "ID": 1991,
+        "term": "Riu dels Cortals"
+    },
+    {
+        "ID": 2004,
+        "term": "Canal de Cordabalba"
+    },
+    {
+        "ID": 2009,
+        "term": "Canal del Corb"
+    },
+    {
+        "ID": 2023,
+        "term": "Obaga dels Coms"
+    },
+    {
+        "ID": 2033,
+        "term": "Portell de les Comes"
+    },
+    {
+        "ID": 2036,
+        "term": "Bosc dels Comellassos"
+    },
+    {
+        "ID": 2042,
+        "term": "Bony de Comascura"
+    },
+    {
+        "ID": 2053,
+        "term": "Riu de Coma Pedrosa"
+    },
+    {
+        "ID": 2067,
+        "term": "Canal de Coma Llonga"
+    },
+    {
+        "ID": 2085,
+        "term": "Coma dels Llops"
+    },
+    {
+        "ID": 2092,
+        "term": "Clot de la Coma de la Sella"
+    },
+    {
+        "ID": 2098,
+        "term": "Planell de Coma Aubosa"
+    },
+    {
+        "ID": 2099,
+        "term": "Clot de Coma Aubosa"
+    },
+    {
+        "ID": 2109,
+        "term": "Bony de la Coma"
+    },
+    {
+        "ID": 2122,
+        "term": "Carretera del Coll d'Ordino"
+    },
+    {
+        "ID": 2123,
+        "term": "Cami del Coll d'Ordino"
+    },
+    {
+        "ID": 2126,
+        "term": "Canal del Coll de Turer"
+    },
+    {
+        "ID": 2134,
+        "term": "Canal del Coll de l'Acaumader"
+    },
+    {
+        "ID": 2142,
+        "term": "Bosc de Collart"
+    },
+    {
+        "ID": 2144,
+        "term": "Bony de les Collades"
+    },
+    {
+        "ID": 2171,
+        "term": "Clots de l'Os"
+    },
+    {
+        "ID": 2185,
+        "term": "Claror"
+    },
+    {
+        "ID": 2190,
+        "term": "Conreu de Certers"
+    },
+    {
+        "ID": 2221,
+        "term": "Font del Casteller"
+    },
+    {
+        "ID": 2222,
+        "term": "Sant Vicenc d'Enclar"
+    },
+    {
+        "ID": 2253,
+        "term": "Carboneres de Ferrer"
+    },
+    {
+        "ID": 2255,
+        "term": "Bony de les Carboneres"
+    },
+    {
+        "ID": 2315,
+        "term": "Torrent de la Canadilla"
+    },
+    {
+        "ID": 2323,
+        "term": "Camp de Vassallo"
+    },
+    {
+        "ID": 2330,
+        "term": "Pedrusques del Camp de Claror"
+    },
+    {
+        "ID": 2362,
+        "term": "Pleta de Cabana Sorda"
+    },
+    {
+        "ID": 2364,
+        "term": "Estany de Cabana Sorda"
+    },
+    {
+        "ID": 2369,
+        "term": "Pla de Buscalls"
+    },
+    {
+        "ID": 2406,
+        "term": "Torrent del Bosc"
+    },
+    {
+        "ID": 2413,
+        "term": "Pla de Borras"
+    },
+    {
+        "ID": 2456,
+        "term": "Canal Blanca"
+    },
+    {
+        "ID": 2485,
+        "term": "Beixalis"
+    },
+    {
+        "ID": 2496,
+        "term": "Basses de la Burna"
+    },
+    {
+        "ID": 2503,
+        "term": "Cap del Baser de la Llonga"
+    },
+    {
+        "ID": 2511,
+        "term": "Barrer d'Areny"
+    },
+    {
+        "ID": 2519,
+        "term": "Canal dels Banys"
+    },
+    {
+        "ID": 2525,
+        "term": "Riu del Bancal Vedeller"
+    },
+    {
+        "ID": 2541,
+        "term": "Font de Baell"
+    },
+    {
+        "ID": 2575,
+        "term": "Bosc de l'Assalador"
+    },
+    {
+        "ID": 2584,
+        "term": "Torrent dels Aspedius"
+    },
+    {
+        "ID": 2616,
+        "term": "Feixans d'Arcalis"
+    },
+    {
+        "ID": 2626,
+        "term": "Anyos"
+    },
+    {
+        "ID": 2641,
+        "term": "Basers de l'Angonella"
+    },
+    {
+        "ID": 2656,
+        "term": "Costa de l'Alt de la Capa"
+    },
+    {
+        "ID": 2662,
+        "term": "Les Costes de l'Alt"
+    },
+    {
+        "ID": 2663,
+        "term": "Canals de l'Alt"
+    },
+    {
+        "ID": 2678,
+        "term": "Riu d'Aixirivall"
+    },
+    {
+        "ID": 2700,
+        "term": "Costa d'Aiguarebre"
+    },
+    {
+        "ID": 2708,
+        "term": "Serrat de l'Agraullet"
+    },
+    {
+        "ID": 2710,
+        "term": "Coll dels Abos"
+    },
+    {
+        "ID": 2760,
+        "term": "Magic Pas"
+    },
+    {
+        "ID": 2763,
+        "term": "Alaska"
+    },
+    {
+        "ID": 2765,
+        "term": "Himalaia Soldeu"
+    },
+    {
+        "ID": 2769,
+        "term": "Magic Ski"
+    },
+    {
+        "ID": 2775,
+        "term": "Residence Deusol"
+    },
+    {
+        "ID": 2777,
+        "term": "HUSA Xalet Besoli"
+    },
+    {
+        "ID": 2825,
+        "term": "Rialb"
+    },
+    {
+        "ID": 2827,
+        "term": "Sant Eloi"
+    },
+    {
+        "ID": 2872,
+        "term": "NORDIC"
+    },
+    {
+        "ID": 2873,
+        "term": "Hotel Oros"
+    },
+    {
+        "ID": 2905,
+        "term": "Somriu Hotel Refugi dels Isards"
+    },
+    {
+        "ID": 2911,
+        "term": "Hotel I Termes Carlemany"
+    },
+    {
+        "ID": 2940,
+        "term": "Pierre & Vacances Andorra El Tarter"
+    },
+    {
+        "ID": 2941,
+        "term": "La Pleta 3000"
+    },
+    {
+        "ID": 2943,
+        "term": "Ordino 3000"
+    },
+    {
+        "ID": 2953,
+        "term": "Oriol"
+    },
+    {
+        "ID": 2961,
+        "term": "Sant Gothard Hotel"
+    },
+    {
+        "ID": 2979,
+        "term": "Apartamentos Solana De Ransol"
+    },
+    {
+        "ID": 2986,
+        "term": "Hotel Bonavida"
+    },
+    {
+        "ID": 2987,
+        "term": "Hotel L'ermita"
+    },
+    {
+        "ID": 2990,
+        "term": "Aparthotel Llempo"
+    },
+    {
+        "ID": 3012,
+        "term": "Apartments Superior El Tarter"
+    },
+    {
+        "ID": 3017,
+        "term": "La Pleta De Soldeu 3000"
+    },
+    {
+        "ID": 3018,
+        "term": "Arbre De Gel Hotel"
+    },
+    {
+        "ID": 3032,
+        "term": "Hotel Vita Arinsal Ex-Marvel Arinsal"
+    },
+    {
+        "ID": 3035,
+        "term": "Sucara"
+    },
+    {
+        "ID": 3043,
+        "term": "Apartamentos Tarter Classic 3000"
+    },
+    {
+        "ID": 3051,
+        "term": "Solana de Ransol Apts"
+    },
+    {
+        "ID": 3053,
+        "term": "Patagonia Atiram Hotel"
+    },
+    {
+        "ID": 3056,
+        "term": "Pv Ransol Apartamentos"
+    },
+    {
+        "ID": 3070,
+        "term": "Puenting"
+    },
+    {
+        "ID": 3077,
+        "term": "Magic Apartamentos"
+    },
+    {
+        "ID": 3092,
+        "term": "De L Isard Hotel"
+    },
+    {
+        "ID": 3095,
+        "term": "Puiol del Piu"
+    },
+    {
+        "ID": 3108,
+        "term": "Els Vilars"
+    },
+    {
+        "ID": 3116,
+        "term": "El Barri"
+    },
+    {
+        "ID": 3133,
+        "term": "Bordes del Vilar"
+    },
+    {
+        "ID": 3142,
+        "term": "Placa Guillemo"
+    },
+    {
+        "ID": 3161,
+        "term": "Clinica Geriatrica Sant Vincenc d'Enclar"
+    },
+    {
+        "ID": 3162,
+        "term": "El Cedre"
+    },
+    {
+        "ID": 3170,
+        "term": "Roc de Metge"
+    },
+    {
+        "ID": 3204,
+        "term": "Jabal Qimah"
+    },
+    {
+        "ID": 3206,
+        "term": "Wadi Muraykhat"
+    },
+    {
+        "ID": 3216,
+        "term": "`Irq al Khatirah"
+    },
+    {
+        "ID": 3221,
+        "term": "Jabal Hafit"
+    },
+    {
+        "ID": 3228,
+        "term": "Bani Sa`ad"
+    },
+    {
+        "ID": 3243,
+        "term": "Jabal al `Azab"
+    },
+    {
+        "ID": 3269,
+        "term": "Zararah"
+    },
+    {
+        "ID": 3270,
+        "term": "Zararah"
+    },
+    {
+        "ID": 3299,
+        "term": "Al Yasat as Sufla"
+    },
+    {
+        "ID": 3304,
+        "term": "Yakhun"
+    },
+    {
+        "ID": 3321,
+        "term": "Wudibsa"
+    },
+    {
+        "ID": 3322,
+        "term": "Wadi Wiqa'"
+    },
+    {
+        "ID": 3327,
+        "term": "Raml Wasit"
+    },
+    {
+        "ID": 3330,
+        "term": "Warisan"
+    },
+    {
+        "ID": 3334,
+        "term": "Wadi Wamm"
+    },
+    {
+        "ID": 3343,
+        "term": "Wafd"
+    },
+    {
+        "ID": 3348,
+        "term": "Wadi Wa`bayn"
+    },
+    {
+        "ID": 3354,
+        "term": "Tawi `Uwayyah"
+    },
+    {
+        "ID": 3367,
+        "term": "Wadi Ushayl"
+    },
+    {
+        "ID": 3381,
+        "term": "`Uqaydat"
+    },
+    {
+        "ID": 3391,
+        "term": "Umm Hafat"
+    },
+    {
+        "ID": 3405,
+        "term": "Umm Suqaym"
+    },
+    {
+        "ID": 3446,
+        "term": "`Ud al Atham"
+    },
+    {
+        "ID": 3459,
+        "term": "Jabal Tubayqah"
+    },
+    {
+        "ID": 3474,
+        "term": "Wadi Thawban"
+    },
+    {
+        "ID": 3476,
+        "term": "Tharwaniyah"
+    },
+    {
+        "ID": 3489,
+        "term": "Tawi Bin `Asil"
+    },
+    {
+        "ID": 3501,
+        "term": "Qurayn at Tarib"
+    },
+    {
+        "ID": 3514,
+        "term": "Tawi Suwayhan"
+    },
+    {
+        "ID": 3542,
+        "term": "Suhaybah"
+    },
+    {
+        "ID": 3572,
+        "term": "Wadi Siha'"
+    },
+    {
+        "ID": 3626,
+        "term": "Shat"
+    },
+    {
+        "ID": 3627,
+        "term": "Sharqiyin"
+    },
+    {
+        "ID": 3647,
+        "term": "Tawi Shaqq"
+    },
+    {
+        "ID": 3651,
+        "term": "Shantuba"
+    },
+    {
+        "ID": 3657,
+        "term": "Shamis"
+    },
+    {
+        "ID": 3663,
+        "term": "Shaitham"
+    },
+    {
+        "ID": 3664,
+        "term": "Sayh Sha`il"
+    },
+    {
+        "ID": 3669,
+        "term": "Wadi Shah"
+    },
+    {
+        "ID": 3683,
+        "term": "Sayh Mahari"
+    },
+    {
+        "ID": 3712,
+        "term": "Jabal Saqamqam"
+    },
+    {
+        "ID": 3715,
+        "term": "Dawhat Saniyah"
+    },
+    {
+        "ID": 3719,
+        "term": "Samnan"
+    },
+    {
+        "ID": 3725,
+        "term": "Sayh Samarah"
+    },
+    {
+        "ID": 3726,
+        "term": "Wadi Samah"
+    },
+    {
+        "ID": 3742,
+        "term": "Wadi Salimah"
+    },
+    {
+        "ID": 3745,
+        "term": "Salimah"
+    },
+    {
+        "ID": 3748,
+        "term": "Salihiyah"
+    },
+    {
+        "ID": 3751,
+        "term": "Salbuk"
+    },
+    {
+        "ID": 3758,
+        "term": "Sala"
+    },
+    {
+        "ID": 3762,
+        "term": "Tawi Sa`id Bin Huwaydan"
+    },
+    {
+        "ID": 3766,
+        "term": "Sayh as Sahmah"
+    },
+    {
+        "ID": 3783,
+        "term": "Sa`diyah"
+    },
+    {
+        "ID": 3791,
+        "term": "Tawi Sabarad"
+    },
+    {
+        "ID": 3792,
+        "term": "Sabalah"
+    },
+    {
+        "ID": 3805,
+        "term": "Ruwaydah"
+    },
+    {
+        "ID": 3819,
+        "term": "Ruq`at Musalli"
+    },
+    {
+        "ID": 3832,
+        "term": "Rumayli"
+    },
+    {
+        "ID": 3852,
+        "term": "Rihyat"
+    },
+    {
+        "ID": 3853,
+        "term": "Tawi Rifa`"
+    },
+    {
+        "ID": 3861,
+        "term": "Tawi Rashid Bin Sa`id"
+    },
+    {
+        "ID": 3882,
+        "term": "Za`bil"
+    },
+    {
+        "ID": 3890,
+        "term": "Ghaf Rakad"
+    },
+    {
+        "ID": 3901,
+        "term": "Rahabah"
+    },
+    {
+        "ID": 3908,
+        "term": "Rafa`"
+    },
+    {
+        "ID": 3929,
+        "term": "Quraytisah"
+    },
+    {
+        "ID": 3945,
+        "term": "Jabal Qitab"
+    },
+    {
+        "ID": 3955,
+        "term": "Qattarah"
+    },
+    {
+        "ID": 3970,
+        "term": "Wadi Qarhah"
+    },
+    {
+        "ID": 3974,
+        "term": "Tawi al Qarah"
+    },
+    {
+        "ID": 3984,
+        "term": "Wadi al Qaliddi"
+    },
+    {
+        "ID": 4014,
+        "term": "Nibri"
+    },
+    {
+        "ID": 4023,
+        "term": "Sayh Nasuriyah"
+    },
+    {
+        "ID": 4064,
+        "term": "Nadd Mani`"
+    },
+    {
+        "ID": 4067,
+        "term": "Naban"
+    },
+    {
+        "ID": 4075,
+        "term": "Hisn al Muwayqi`i"
+    },
+    {
+        "ID": 4106,
+        "term": "Bid` Musfir"
+    },
+    {
+        "ID": 4107,
+        "term": "Ruqq Musfayr"
+    },
+    {
+        "ID": 4112,
+        "term": "Hadd Musafsif"
+    },
+    {
+        "ID": 4141,
+        "term": "Muqattarah"
+    },
+    {
+        "ID": 4142,
+        "term": "Muqala"
+    },
+    {
+        "ID": 4145,
+        "term": "Mundafinah"
+    },
+    {
+        "ID": 4152,
+        "term": "Mulaysah"
+    },
+    {
+        "ID": 4165,
+        "term": "Jabal Muhayjir"
+    },
+    {
+        "ID": 4214,
+        "term": "Minha"
+    },
+    {
+        "ID": 4222,
+        "term": "Naqa Milt"
+    },
+    {
+        "ID": 4232,
+        "term": "Mifsal"
+    },
+    {
+        "ID": 4233,
+        "term": "Midaqarah"
+    },
+    {
+        "ID": 4237,
+        "term": "Mazdiyah"
+    },
+    {
+        "ID": 4246,
+        "term": "Maydarah"
+    },
+    {
+        "ID": 4273,
+        "term": "Tawi al Masakin"
+    },
+    {
+        "ID": 4285,
+        "term": "Tawi Marmum"
+    },
+    {
+        "ID": 4290,
+        "term": "Tawi Margham"
+    },
+    {
+        "ID": 4292,
+        "term": "Bandar Marfa'"
+    },
+    {
+        "ID": 4296,
+        "term": "Wadi Marakiz"
+    },
+    {
+        "ID": 4297,
+        "term": "Tawi Marafiyah"
+    },
+    {
+        "ID": 4318,
+        "term": "Malad"
+    },
+    {
+        "ID": 4329,
+        "term": "Maihala"
+    },
+    {
+        "ID": 4354,
+        "term": "Madhran"
+    },
+    {
+        "ID": 4379,
+        "term": "Ra's Liffah"
+    },
+    {
+        "ID": 4385,
+        "term": "Lazimah"
+    },
+    {
+        "ID": 4400,
+        "term": "Tawi Khurayyah"
+    },
+    {
+        "ID": 4402,
+        "term": "Kurays"
+    },
+    {
+        "ID": 4452,
+        "term": "Tawi Khaznah"
+    },
+    {
+        "ID": 4456,
+        "term": "Tawi Khadir"
+    },
+    {
+        "ID": 4460,
+        "term": "Khawr Kalba"
+    },
+    {
+        "ID": 4482,
+        "term": "Kharish"
+    },
+    {
+        "ID": 4517,
+        "term": "Khabakhib"
+    },
+    {
+        "ID": 4530,
+        "term": "Kaddat Jahiliyah"
+    },
+    {
+        "ID": 4538,
+        "term": "Bid` Jumayjim"
+    },
+    {
+        "ID": 4583,
+        "term": "Tawi al JafIr"
+    },
+    {
+        "ID": 4597,
+        "term": "Irkut"
+    },
+    {
+        "ID": 4598,
+        "term": "Irhib"
+    },
+    {
+        "ID": 4600,
+        "term": "Wadi Adhan"
+    },
+    {
+        "ID": 4611,
+        "term": "Hutat Abu Marsi"
+    },
+    {
+        "ID": 4633,
+        "term": "Humanah"
+    },
+    {
+        "ID": 4640,
+        "term": "Hufaytat"
+    },
+    {
+        "ID": 4647,
+        "term": "Hook Island"
+    },
+    {
+        "ID": 4650,
+        "term": "Wadi al Hiyar"
+    },
+    {
+        "ID": 4660,
+        "term": "Hilli"
+    },
+    {
+        "ID": 4666,
+        "term": "Hazm al Habb"
+    },
+    {
+        "ID": 4675,
+        "term": "Hadabat Hayran"
+    },
+    {
+        "ID": 4685,
+        "term": "Hayat"
+    },
+    {
+        "ID": 4693,
+        "term": "Bid` Hawamil"
+    },
+    {
+        "ID": 4701,
+        "term": "Jabal al Hasan"
+    },
+    {
+        "ID": 4730,
+        "term": "Dawhat Hanyurah"
+    },
+    {
+        "ID": 4752,
+        "term": "Hamarur"
+    },
+    {
+        "ID": 4761,
+        "term": "Jabal Halwa"
+    },
+    {
+        "ID": 4778,
+        "term": "Halagiya"
+    },
+    {
+        "ID": 4788,
+        "term": "Haffar"
+    },
+    {
+        "ID": 4795,
+        "term": "Sayh Hadithah"
+    },
+    {
+        "ID": 4800,
+        "term": "Hadabat Khalifah"
+    },
+    {
+        "ID": 4803,
+        "term": "Habshan"
+    },
+    {
+        "ID": 4812,
+        "term": "Ghuwayfat"
+    },
+    {
+        "ID": 4819,
+        "term": "Kharmat Ghuraydah"
+    },
+    {
+        "ID": 4839,
+        "term": "Ghayyafi"
+    },
+    {
+        "ID": 4876,
+        "term": "Ghaf Rimah"
+    },
+    {
+        "ID": 4879,
+        "term": "Sayh al Ghafr"
+    },
+    {
+        "ID": 4884,
+        "term": "Ghafat Shibhani"
+    },
+    {
+        "ID": 4910,
+        "term": "Jabal Fujayrah"
+    },
+    {
+        "ID": 4913,
+        "term": "Tawi Fili"
+    },
+    {
+        "ID": 4955,
+        "term": "Jabal al Fayah"
+    },
+    {
+        "ID": 4964,
+        "term": "Dumyat Mansur"
+    },
+    {
+        "ID": 4983,
+        "term": "Dihan"
+    },
+    {
+        "ID": 4986,
+        "term": "Ra's Diba"
+    },
+    {
+        "ID": 5029,
+        "term": "Ghalilat Dalwayn"
+    },
+    {
+        "ID": 5038,
+        "term": "Dahin"
+    },
+    {
+        "ID": 5044,
+        "term": "Jabal Daftah"
+    },
+    {
+        "ID": 5056,
+        "term": "Wadi Dab`ah"
+    },
+    {
+        "ID": 5082,
+        "term": "Bu Samarah"
+    },
+    {
+        "ID": 5090,
+        "term": "Burden Rock"
+    },
+    {
+        "ID": 5099,
+        "term": "Tawi Bu Muwayrikah"
+    },
+    {
+        "ID": 5123,
+        "term": "Buhuth Yibarah"
+    },
+    {
+        "ID": 5128,
+        "term": "Jabal Buhayis"
+    },
+    {
+        "ID": 5137,
+        "term": "Ghafat Bu Hamr"
+    },
+    {
+        "ID": 5144,
+        "term": "Bu Farisah"
+    },
+    {
+        "ID": 5182,
+        "term": "Tawi Bisat"
+    },
+    {
+        "ID": 5187,
+        "term": "Khawr Bin `Utayy"
+    },
+    {
+        "ID": 5188,
+        "term": "Tawi Bint Sa`id"
+    },
+    {
+        "ID": 5208,
+        "term": "Bin `Asal"
+    },
+    {
+        "ID": 5225,
+        "term": "Nadd Bilad"
+    },
+    {
+        "ID": 5230,
+        "term": "Bid` Salma"
+    },
+    {
+        "ID": 5234,
+        "term": "Ramlat Bid` Mughanni"
+    },
+    {
+        "ID": 5259,
+        "term": "Ramlat Baytar"
+    },
+    {
+        "ID": 5265,
+        "term": "Bayadir"
+    },
+    {
+        "ID": 5277,
+        "term": "Batanah"
+    },
+    {
+        "ID": 5307,
+        "term": "Bani Huraymish"
+    },
+    {
+        "ID": 5318,
+        "term": "Bahuth Ruwayyah"
+    },
+    {
+        "ID": 5321,
+        "term": "Wadi Baha' Shaybah"
+    },
+    {
+        "ID": 5327,
+        "term": "Khawr al Bab"
+    },
+    {
+        "ID": 5344,
+        "term": "Tawi al `Ayn"
+    },
+    {
+        "ID": 5345,
+        "term": "Wadi `Ayim"
+    },
+    {
+        "ID": 5350,
+        "term": "Wadi Awsaq"
+    },
+    {
+        "ID": 5362,
+        "term": "A`wad Ghabi"
+    },
+    {
+        "ID": 5364,
+        "term": "At Talfahah"
+    },
+    {
+        "ID": 5394,
+        "term": "Raml al `Ashush"
+    },
+    {
+        "ID": 5404,
+        "term": "Wadi `Asimah"
+    },
+    {
+        "ID": 5412,
+        "term": "Ar Ruways"
+    },
+    {
+        "ID": 5443,
+        "term": "`Aqaq"
+    },
+    {
+        "ID": 5447,
+        "term": "`Aqabah"
+    },
+    {
+        "ID": 5468,
+        "term": "Al Wara"
+    },
+    {
+        "ID": 5469,
+        "term": "Al Wahi"
+    },
+    {
+        "ID": 5496,
+        "term": "Al Munba`ij"
+    },
+    {
+        "ID": 5510,
+        "term": "Al Mariyah"
+    },
+    {
+        "ID": 5512,
+        "term": "Al Mareem"
+    },
+    {
+        "ID": 5533,
+        "term": "Al Khaysam"
+    },
+    {
+        "ID": 5539,
+        "term": "Al Khan"
+    },
+    {
+        "ID": 5548,
+        "term": "Al Jahr"
+    },
+    {
+        "ID": 5575,
+        "term": "Ra's al Hadarah"
+    },
+    {
+        "ID": 5597,
+        "term": "Al Fahlayn"
+    },
+    {
+        "ID": 5603,
+        "term": "Al Bunhar"
+    },
+    {
+        "ID": 5604,
+        "term": "Haql al Bunduq"
+    },
+    {
+        "ID": 5606,
+        "term": "Bitnah"
+    },
+    {
+        "ID": 5617,
+        "term": "Al `Aysh"
+    },
+    {
+        "ID": 5621,
+        "term": "Al `Awdah"
+    },
+    {
+        "ID": 5624,
+        "term": "Al Aragee'ah"
+    },
+    {
+        "ID": 5627,
+        "term": "Wadi al Batha'"
+    },
+    {
+        "ID": 5631,
+        "term": "Al Ajij"
+    },
+    {
+        "ID": 5641,
+        "term": "Sayh `Aqarib"
+    },
+    {
+        "ID": 5651,
+        "term": "Ahl Ghayl"
+    },
+    {
+        "ID": 5658,
+        "term": "Adh Dharbaniyah"
+    },
+    {
+        "ID": 5670,
+        "term": "Ra's Abu Zaby"
+    },
+    {
+        "ID": 5676,
+        "term": "Abu Suyul"
+    },
+    {
+        "ID": 5697,
+        "term": "Tawi Abu al Hamdi"
+    },
+    {
+        "ID": 5707,
+        "term": "Baraq Hamamah"
+    },
+    {
+        "ID": 5710,
+        "term": "Al Khashfah"
+    },
+    {
+        "ID": 5730,
+        "term": "Abu Mahad"
+    },
+    {
+        "ID": 5733,
+        "term": "Wadi Mansab"
+    },
+    {
+        "ID": 5748,
+        "term": "Jabal Yabanah"
+    },
+    {
+        "ID": 5755,
+        "term": "Al Ghashban"
+    },
+    {
+        "ID": 5766,
+        "term": "Raqayma"
+    },
+    {
+        "ID": 5769,
+        "term": "Tawi Musaytiah"
+    },
+    {
+        "ID": 5790,
+        "term": "Khawr Karbish"
+    },
+    {
+        "ID": 5805,
+        "term": "Asad Raqm Ihda `Ashar"
+    },
+    {
+        "ID": 5819,
+        "term": "Majra al Ghaf"
+    },
+    {
+        "ID": 5821,
+        "term": "Bab an Na`itah"
+    },
+    {
+        "ID": 5824,
+        "term": "Hazm al Ghuwayfat"
+    },
+    {
+        "ID": 5852,
+        "term": "Sayh Za`bah"
+    },
+    {
+        "ID": 5859,
+        "term": "Ar Ra`fah"
+    },
+    {
+        "ID": 5862,
+        "term": "Jabal as Saghir"
+    },
+    {
+        "ID": 5889,
+        "term": "Umm Daysis"
+    },
+    {
+        "ID": 5890,
+        "term": "Bid` Sulayman"
+    },
+    {
+        "ID": 5892,
+        "term": "Bid` Hasib"
+    },
+    {
+        "ID": 5903,
+        "term": "Sikkat al Khayl"
+    },
+    {
+        "ID": 5904,
+        "term": "Sikkat al Khayl"
+    },
+    {
+        "ID": 5917,
+        "term": "As Sur"
+    },
+    {
+        "ID": 5940,
+        "term": "Tall Bash"
+    },
+    {
+        "ID": 5941,
+        "term": "Bu Hasa"
+    },
+    {
+        "ID": 5949,
+        "term": "Sharjah International Airport"
+    },
+    {
+        "ID": 5954,
+        "term": "Dusit Dubai"
+    },
+    {
+        "ID": 5969,
+        "term": "Al Sham"
+    },
+    {
+        "ID": 5975,
+        "term": "Holiday Inn"
+    },
+    {
+        "ID": 6006,
+        "term": "Taj Palace"
+    },
+    {
+        "ID": 6024,
+        "term": "Le Meridien Abu Dhabi"
+    },
+    {
+        "ID": 6034,
+        "term": "Al Manzil Hotel"
+    },
+    {
+        "ID": 6038,
+        "term": "Sahara Hotel"
+    },
+    {
+        "ID": 6041,
+        "term": "Fujairah Rotana Resort And Spa"
+    },
+    {
+        "ID": 6068,
+        "term": "Golden Sand Hotel"
+    },
+    {
+        "ID": 6097,
+        "term": "Admiral Plaza Hotel"
+    },
+    {
+        "ID": 6099,
+        "term": "Radisson SAS Resort Sharjah"
+    },
+    {
+        "ID": 6111,
+        "term": "HJ HTL DIPLOMAT ABU DHABI AE"
+    },
+    {
+        "ID": 6120,
+        "term": "RAMADA DUBAI"
+    },
+    {
+        "ID": 6164,
+        "term": "Muhaisanah Second"
+    },
+    {
+        "ID": 6171,
+        "term": "Jumeira Second"
+    },
+    {
+        "ID": 6179,
+        "term": "Al Safouh First"
+    },
+    {
+        "ID": 6189,
+        "term": "Oud Metha"
+    },
+    {
+        "ID": 6191,
+        "term": "Al Nud"
+    },
+    {
+        "ID": 6212,
+        "term": "AL Sharq"
+    },
+    {
+        "ID": 6215,
+        "term": "AL Nahda First"
+    },
+    {
+        "ID": 6227,
+        "term": "AL Ramla West"
+    },
+    {
+        "ID": 6230,
+        "term": "Al Ramtha"
+    },
+    {
+        "ID": 6245,
+        "term": "Al Butain"
+    },
+    {
+        "ID": 6282,
+        "term": "AL MUROOJ ROTANA"
+    },
+    {
+        "ID": 6306,
+        "term": "GRAND MIDWEST HOTEL APARTMENT"
+    },
+    {
+        "ID": 6307,
+        "term": "GRAND MILLENNIUM DUBAI"
+    },
+    {
+        "ID": 6311,
+        "term": "HOLIDAY INN EXPRESS DUBAI JUMEIRAH"
+    },
+    {
+        "ID": 6320,
+        "term": "LE ROYAL MERIDIEN BEACH RESORT DELUXE"
+    },
+    {
+        "ID": 6333,
+        "term": "Ramada Hotel Suites"
+    },
+    {
+        "ID": 6358,
+        "term": "AMWAJ ROTANA JUMEIRAH BEACH"
+    },
+    {
+        "ID": 6398,
+        "term": "majestic hotel tower"
+    },
+    {
+        "ID": 6400,
+        "term": "millennium sharjah"
+    },
+    {
+        "ID": 6410,
+        "term": "star boutique"
+    },
+    {
+        "ID": 6411,
+        "term": "starmetro deira deluxe hotel apartments"
+    },
+    {
+        "ID": 6419,
+        "term": "Al Nakheel Hotel Dubai"
+    },
+    {
+        "ID": 6422,
+        "term": "Coral Boutique Villas"
+    },
+    {
+        "ID": 6437,
+        "term": "Ain al Madhab Garden"
+    },
+    {
+        "ID": 6461,
+        "term": "Wadi Hamad Dam"
+    },
+    {
+        "ID": 6469,
+        "term": "Al-Dhabbaya Mediumwave Transmitter ( 1170 kHz), Tower Northwest"
+    },
+    {
+        "ID": 6484,
+        "term": "Bithnah Fort"
+    },
+    {
+        "ID": 6485,
+        "term": "Bithnah Dam"
+    },
+    {
+        "ID": 6498,
+        "term": "Dalam Dam"
+    },
+    {
+        "ID": 6510,
+        "term": "Thoban"
+    },
+    {
+        "ID": 6521,
+        "term": "Wizarat az Zira`ah wa ath Tharwah as Samakiyah"
+    },
+    {
+        "ID": 6581,
+        "term": "Al Mariah United Group"
+    },
+    {
+        "ID": 6584,
+        "term": "Mintaqat ar Rawdah"
+    },
+    {
+        "ID": 6591,
+        "term": "Mintaqat ar Ra's A"
+    },
+    {
+        "ID": 6599,
+        "term": "Mintaqah al Hadithah"
+    },
+    {
+        "ID": 6649,
+        "term": "Markaz at Tanmiyah al Ijtima`iyah"
+    },
+    {
+        "ID": 6651,
+        "term": "Masjid as Shaykhah Isra Bin Ummah"
+    },
+    {
+        "ID": 6657,
+        "term": "Madrasat Ahmad Bin Rashid at Ta'sisiyah"
+    },
+    {
+        "ID": 6672,
+        "term": "Masjid al Kazimi"
+    },
+    {
+        "ID": 6692,
+        "term": "Masjid al Khaji"
+    },
+    {
+        "ID": 6694,
+        "term": "Jami` Abu `Ubaydah"
+    },
+    {
+        "ID": 6702,
+        "term": "Imarat al Fasht"
+    },
+    {
+        "ID": 6704,
+        "term": "Al Halah"
+    },
+    {
+        "ID": 6713,
+        "term": "Mawqi` ad Dawr al Athari"
+    },
+    {
+        "ID": 6717,
+        "term": "Al Quram"
+    },
+    {
+        "ID": 6725,
+        "term": "As Surrah"
+    },
+    {
+        "ID": 6729,
+        "term": "Maydan Sibaq al Hajun"
+    },
+    {
+        "ID": 6764,
+        "term": "Bank al Khalij al Awwal"
+    },
+    {
+        "ID": 6778,
+        "term": "Mashtal Baladiyat Abu Zaby"
+    },
+    {
+        "ID": 6795,
+        "term": "Wizarat at Taqah"
+    },
+    {
+        "ID": 6799,
+        "term": "Madinat Zayid"
+    },
+    {
+        "ID": 6805,
+        "term": "Nadi Abu Zaby ad Dawli lir Riyadat al Bahriyah"
+    },
+    {
+        "ID": 6812,
+        "term": "Madrasat `A'ishah Bint Abi Bakr ath Thanawiyah"
+    },
+    {
+        "ID": 6828,
+        "term": "Bank Abu Zaby at Tijari"
+    },
+    {
+        "ID": 6829,
+        "term": "Masjid `Abd Allah Bin Kulayb"
+    },
+    {
+        "ID": 6830,
+        "term": "Bank Ra's al Khaymah Abu Zaby"
+    },
+    {
+        "ID": 6841,
+        "term": "Hawlanda"
+    },
+    {
+        "ID": 6861,
+        "term": "Al Imarat Blaza"
+    },
+    {
+        "ID": 6863,
+        "term": "Hadiqat at Turath"
+    },
+    {
+        "ID": 6865,
+        "term": "Suq at Tuyur"
+    },
+    {
+        "ID": 6868,
+        "term": "Suq as Samak"
+    },
+    {
+        "ID": 6871,
+        "term": "Suq al Mintaqah al Hurrah"
+    },
+    {
+        "ID": 6904,
+        "term": "Wizarat al Maliyah wa as Sina`ah"
+    },
+    {
+        "ID": 6941,
+        "term": "Mustashfa ash Shaykh Khalifah Bin Zayid"
+    },
+    {
+        "ID": 6952,
+        "term": "Madrasat Muhammad Bin Khalid ath Thanawiyah"
+    },
+    {
+        "ID": 6972,
+        "term": "Al Nahyan"
+    },
+    {
+        "ID": 6986,
+        "term": "Markaz al Mustaqbal as Sihhi"
+    },
+    {
+        "ID": 6995,
+        "term": "Al Mushrif"
+    },
+    {
+        "ID": 7000,
+        "term": "Mal`ab ash Shaykh Sultan Bin Zayid"
+    },
+    {
+        "ID": 7005,
+        "term": "Madrasat Aksfurd al Khassah"
+    },
+    {
+        "ID": 7012,
+        "term": "Diwan Na`ib Ra'is Majlis al Wuzara'"
+    },
+    {
+        "ID": 7031,
+        "term": "Masjid `Abd ar Rahman Bin `Awf"
+    },
+    {
+        "ID": 7046,
+        "term": "Madrasat az Za`faranah"
+    },
+    {
+        "ID": 7054,
+        "term": "Idarat Shurtat al Hirasat"
+    },
+    {
+        "ID": 7074,
+        "term": "Lubnan"
+    },
+    {
+        "ID": 7095,
+        "term": "Hay'ah al `Ammah lil Khidmat as Sihhiyah"
+    },
+    {
+        "ID": 7097,
+        "term": "Al Hay'ah al `Ammah lil Baladiyat"
+    },
+    {
+        "ID": 7117,
+        "term": "Sas an Nakhl"
+    },
+    {
+        "ID": 7118,
+        "term": "Al Jami` al Kabir"
+    },
+    {
+        "ID": 7120,
+        "term": "Mintaqah Bayn al Jisrayn"
+    },
+    {
+        "ID": 7130,
+        "term": "Madinat Khalifah B"
+    },
+    {
+        "ID": 7132,
+        "term": "Akadimiyat ash Shaykh Zayid al Khassah (lil Banat)"
+    },
+    {
+        "ID": 7138,
+        "term": "Al Khalidiyah Mawl"
+    },
+    {
+        "ID": 7148,
+        "term": "Markaz Futuh al Khayr"
+    },
+    {
+        "ID": 7160,
+        "term": "Hadiqat Mushrif al Wataniyah"
+    },
+    {
+        "ID": 7192,
+        "term": "Sakan al `Ummal - al Qusays"
+    },
+    {
+        "ID": 7214,
+        "term": "Mintaqat al Qusays as Sina`iyah"
+    },
+    {
+        "ID": 7230,
+        "term": "Madrasat al Ittihad al Khassah"
+    },
+    {
+        "ID": 7270,
+        "term": "Suq Dayrah al Masquf"
+    },
+    {
+        "ID": 7292,
+        "term": "Mintaqat as Suq"
+    },
+    {
+        "ID": 7303,
+        "term": "As Sa`ah"
+    },
+    {
+        "ID": 7312,
+        "term": "Funduq Maridiyas"
+    },
+    {
+        "ID": 7314,
+        "term": "Funduq Jay Dabalyu Mariyawt"
+    },
+    {
+        "ID": 7325,
+        "term": "Zaribat Dawiy"
+    },
+    {
+        "ID": 7327,
+        "term": "Kulliyat ad Dirasat al Islamiyah"
+    },
+    {
+        "ID": 7331,
+        "term": "`Iyadat al Karamah"
+    },
+    {
+        "ID": 7343,
+        "term": "Al Hudaybah"
+    },
+    {
+        "ID": 7351,
+        "term": "Qasr ad Diyafah"
+    },
+    {
+        "ID": 7354,
+        "term": "Markaz Dubayy lil Funun"
+    },
+    {
+        "ID": 7385,
+        "term": "Jisr Al Maktum"
+    },
+    {
+        "ID": 7402,
+        "term": "Mashtal Baladiyat Dubayy"
+    },
+    {
+        "ID": 7423,
+        "term": "Al Bayan"
+    },
+    {
+        "ID": 7444,
+        "term": "Madrasat Umm Suqaym al Ibtida'iyah"
+    },
+    {
+        "ID": 7495,
+        "term": "Funduq Finisiya"
+    },
+    {
+        "ID": 7502,
+        "term": "Banama"
+    },
+    {
+        "ID": 7505,
+        "term": "Ash Shamal"
+    },
+    {
+        "ID": 7511,
+        "term": "An Nakhl"
+    },
+    {
+        "ID": 7528,
+        "term": "Al Jami` al Kabir"
+    },
+    {
+        "ID": 7545,
+        "term": "Umm Hurayr"
+    },
+    {
+        "ID": 7551,
+        "term": "Sharikat Matahin ad Daqiq al Wataniyah"
+    },
+    {
+        "ID": 7553,
+        "term": "Bank al Qahirah"
+    },
+    {
+        "ID": 7573,
+        "term": "Masjid Bin Zayid"
+    },
+    {
+        "ID": 7576,
+        "term": "Mahattat Dubayy li Sayyarat al Ujrah"
+    },
+    {
+        "ID": 7608,
+        "term": "The Palm - Jumeirah"
+    },
+    {
+        "ID": 7611,
+        "term": "Jebel Ali Village"
+    },
+    {
+        "ID": 7677,
+        "term": "Al Rais Shopping Mall"
+    },
+    {
+        "ID": 7699,
+        "term": "Jazirat as Safiyah"
+    },
+    {
+        "ID": 7704,
+        "term": "Al Muwayhat"
+    },
+    {
+        "ID": 7721,
+        "term": "Az Zawra'"
+    },
+    {
+        "ID": 7731,
+        "term": "Wizarat al `Amal"
+    },
+    {
+        "ID": 7741,
+        "term": "Mahattat Kahraba' `Ajman"
+    },
+    {
+        "ID": 7747,
+        "term": "Al Majaz 3"
+    },
+    {
+        "ID": 7753,
+        "term": "Al Gharb District"
+    },
+    {
+        "ID": 7754,
+        "term": "Gulf Square"
+    },
+    {
+        "ID": 7755,
+        "term": "Shaykh Abdul Karim al Bakri Square"
+    },
+    {
+        "ID": 7762,
+        "term": "Industrial Area 1"
+    },
+    {
+        "ID": 7764,
+        "term": "Industrial Area 2"
+    },
+    {
+        "ID": 7782,
+        "term": "Sharqan"
+    },
+    {
+        "ID": 7797,
+        "term": "Expo Center Sharjah"
+    },
+    {
+        "ID": 7800,
+        "term": "Al Fardan Center"
+    },
+    {
+        "ID": 7801,
+        "term": "Al Qasba Canal"
+    },
+    {
+        "ID": 7804,
+        "term": "Sharjah Economic Development Department"
+    },
+    {
+        "ID": 7811,
+        "term": "King Abdul Aziz Square"
+    },
+    {
+        "ID": 7818,
+        "term": "Chamber of Commerce"
+    },
+    {
+        "ID": 7851,
+        "term": "Shaykh Khalid Bin Khalid al Qassimi Square"
+    },
+    {
+        "ID": 7853,
+        "term": "Sharjah Driving Institute"
+    },
+    {
+        "ID": 7858,
+        "term": "Saeed Bin Obeid al Jarwan Square"
+    },
+    {
+        "ID": 7861,
+        "term": "Ali Bin Ahmed al Shamal Square"
+    },
+    {
+        "ID": 7877,
+        "term": "Al Juraina"
+    },
+    {
+        "ID": 7880,
+        "term": "Ansar Mall"
+    },
+    {
+        "ID": 7885,
+        "term": "Royal Crown Hotel"
+    },
+    {
+        "ID": 7888,
+        "term": "The Planetarium"
+    },
+    {
+        "ID": 7903,
+        "term": "Lulu Center"
+    },
+    {
+        "ID": 7932,
+        "term": "Arts Square"
+    },
+    {
+        "ID": 7976,
+        "term": "Basteen Falah"
+    },
+    {
+        "ID": 7988,
+        "term": "Dubai International Financial Centre"
+    },
+    {
+        "ID": 7998,
+        "term": "Burj al Arab"
+    },
+    {
+        "ID": 8000,
+        "term": "Al Nadi Tower"
+    },
+    {
+        "ID": 8006,
+        "term": "Al Jazeirah Airport"
+    },
+    {
+        "ID": 8021,
+        "term": "Khalidiya Palace Rayhaan Rotan"
+    },
+    {
+        "ID": 8047,
+        "term": "Ramada Downtown"
+    },
+    {
+        "ID": 8068,
+        "term": "Embassy Suites"
+    },
+    {
+        "ID": 8089,
+        "term": "Ocean View Hotel"
+    },
+    {
+        "ID": 8098,
+        "term": "Clover Creek Hotel Apartments"
+    },
+    {
+        "ID": 8104,
+        "term": "Auris Lodge"
+    },
+    {
+        "ID": 8111,
+        "term": "Baron Hotel Apartments"
+    },
+    {
+        "ID": 8126,
+        "term": "Emirates Grand"
+    },
+    {
+        "ID": 8128,
+        "term": "Le Meridien Mina Seyahi Beach Resort & Marina"
+    },
+    {
+        "ID": 8134,
+        "term": "Champs Elysees"
+    },
+    {
+        "ID": 8140,
+        "term": "Skyline Deluxe Hotel Apartments"
+    },
+    {
+        "ID": 8166,
+        "term": "Chelsea Gardens Hotel Apartment"
+    },
+    {
+        "ID": 8222,
+        "term": "The Meydan"
+    },
+    {
+        "ID": 8230,
+        "term": "Armani Hotel Dubai"
+    },
+    {
+        "ID": 8246,
+        "term": "Emirates Stars Hotel Apartments - Dubai"
+    },
+    {
+        "ID": 8256,
+        "term": "Al Waleed Palace Hotel Apartments - Al Barsha"
+    },
+    {
+        "ID": 8257,
+        "term": "Xclusive Clover Hotel Apartments"
+    },
+    {
+        "ID": 8285,
+        "term": "The Eclipse Boutique Suites"
+    },
+    {
+        "ID": 8291,
+        "term": "Holiday Inn Abu Dhabi"
+    },
+    {
+        "ID": 8313,
+        "term": "Anantara Al Yamm Villas"
+    },
+    {
+        "ID": 8335,
+        "term": "Time Crystal Hotel Apartment"
+    },
+    {
+        "ID": 8336,
+        "term": "Six Senses Zighy Bay"
+    },
+    {
+        "ID": 8340,
+        "term": "Nassema Towers Dubai"
+    },
+    {
+        "ID": 8341,
+        "term": "Golden Sands Hotel Apartments"
+    },
+    {
+        "ID": 8349,
+        "term": "Al Bada Hotel & Resort - Chalets"
+    },
+    {
+        "ID": 8354,
+        "term": "One&Amp Only Royal Mirage"
+    },
+    {
+        "ID": 8356,
+        "term": "Marjan Island Resort &Amp Spa"
+    },
+    {
+        "ID": 8369,
+        "term": "Holiday Inn Dubai Al Barsha"
+    },
+    {
+        "ID": 8391,
+        "term": "Park Hotel Apartment"
+    },
+    {
+        "ID": 8394,
+        "term": "Sofitel Abu Dhabi Corniche (Luxury-Ro)"
+    },
+    {
+        "ID": 8398,
+        "term": "Palm Jebel Ali"
+    },
+    {
+        "ID": 8406,
+        "term": "Emirates Concorde Htl & Residence"
+    },
+    {
+        "ID": 8425,
+        "term": "Dhafra Beach Hotel"
+    },
+    {
+        "ID": 8432,
+        "term": "Al Rawda Arjaan Rotana"
+    },
+    {
+        "ID": 8441,
+        "term": "Fortune Boutique"
+    },
+    {
+        "ID": 8442,
+        "term": "Fortune Plaza"
+    },
+    {
+        "ID": 8457,
+        "term": "Sheraton Abu Dhabi (Classic City)"
+    },
+    {
+        "ID": 8465,
+        "term": "Ramee Rose"
+    },
+    {
+        "ID": 8471,
+        "term": "The Address Montgomerie Dubai"
+    },
+    {
+        "ID": 8496,
+        "term": "The H Hotel"
+    },
+    {
+        "ID": 8529,
+        "term": "Al Diar Oryx Hotel"
+    },
+    {
+        "ID": 8550,
+        "term": "Hotel Fairmount Dubai"
+    },
+    {
+        "ID": 8576,
+        "term": "Marriott Hotel Al Jaddaf Duba"
+    },
+    {
+        "ID": 8597,
+        "term": "Pearl Residence Hotel Apartments"
+    },
+    {
+        "ID": 8608,
+        "term": "Ramada Chelsea Hotel Al Barsha"
+    },
+    {
+        "ID": 8612,
+        "term": "Chelsea Gardens Hotel Apartments"
+    },
+    {
+        "ID": 8636,
+        "term": "City Centre Residence By Pullman"
+    },
+    {
+        "ID": 8648,
+        "term": "Paragon Hotel (Formerly Alhamra Hotel)"
+    },
+    {
+        "ID": 8650,
+        "term": "Auris Boutique Hotel Apartment Al Barsha"
+    },
+    {
+        "ID": 8667,
+        "term": "Aparthotel Adagio Abu Dhabi Al Bustan"
+    },
+    {
+        "ID": 8698,
+        "term": "Al Sharq Sharjah"
+    },
+    {
+        "ID": 8706,
+        "term": "East Coast Apartment"
+    },
+    {
+        "ID": 8723,
+        "term": "Taj Palace Dubai"
+    },
+    {
+        "ID": 8751,
+        "term": "Ramada Plaza Jumeirah Beach Residence"
+    },
+    {
+        "ID": 8758,
+        "term": "Jormand Suites Hotel"
+    },
+    {
+        "ID": 8770,
+        "term": "Arjaan By Rotana Dubai Media City"
+    },
+    {
+        "ID": 8786,
+        "term": "Savoy Suites Hotel Apartments"
+    },
+    {
+        "ID": 8794,
+        "term": "Hyatt Regency Creek Heights"
+    },
+    {
+        "ID": 8818,
+        "term": "Royal Residences At Jumeirah Zabeel"
+    },
+    {
+        "ID": 8842,
+        "term": "St George Hotel"
+    },
+    {
+        "ID": 8856,
+        "term": "Time Oak Hotel and Suites"
+    },
+    {
+        "ID": 8861,
+        "term": "Sun City International Hotel"
+    },
+    {
+        "ID": 8863,
+        "term": "Rain Tree Hotel"
+    },
+    {
+        "ID": 8865,
+        "term": "London Suites Hotel"
+    },
+    {
+        "ID": 8870,
+        "term": "Cosmopolitan Hotel Al Barsha"
+    },
+    {
+        "ID": 8884,
+        "term": "City Stay Inn Hotel Apartments"
+    },
+    {
+        "ID": 8886,
+        "term": "Grand Mercure Residence Abu Dhabi"
+    },
+    {
+        "ID": 8893,
+        "term": "Coral Suites"
+    },
+    {
+        "ID": 8902,
+        "term": "Sandy Beach Resort"
+    },
+    {
+        "ID": 8910,
+        "term": "Splendid"
+    },
+    {
+        "ID": 8911,
+        "term": "Smana Hotel Al Riqua"
+    },
+    {
+        "ID": 8925,
+        "term": "Green Lakes Serviced Apartments"
+    },
+    {
+        "ID": 8940,
+        "term": "Bavaria City Suites Qusais"
+    },
+    {
+        "ID": 8941,
+        "term": "Baisan Residence"
+    },
+    {
+        "ID": 8947,
+        "term": "Al Khaleej Holiday"
+    },
+    {
+        "ID": 8957,
+        "term": "Hotel Dusit Thani"
+    },
+    {
+        "ID": 8964,
+        "term": "Courtyard Marriott Green Commu"
+    },
+    {
+        "ID": 8978,
+        "term": "Jebel Ali Palm Tree Court Hotel"
+    },
+    {
+        "ID": 9032,
+        "term": "Wyndham Dubai Marina"
+    },
+    {
+        "ID": 9043,
+        "term": "Jebel Ali Free Zone"
+    },
+    {
+        "ID": 9092,
+        "term": "Saadiyat Public Beach"
+    },
+    {
+        "ID": 9118,
+        "term": "Al 'Arad"
+    },
+    {
+        "ID": 9119,
+        "term": "Wadi al Qurm"
+    },
+    {
+        "ID": 9130,
+        "term": "Al Hamra Aux"
+    },
+    {
+        "ID": 9141,
+        "term": "Marawwah Island"
+    },
+    {
+        "ID": 9145,
+        "term": "Al Jirab"
+    },
+    {
+        "ID": 9174,
+        "term": "Rio de Janeiro"
+    },
+    {
+        "ID": 9176,
+        "term": "Al Manadir"
+    },
+    {
+        "ID": 9184,
+        "term": "Bani Yas City"
+    },
+    {
+        "ID": 9212,
+        "term": "Osama Bin Zaid Mosque"
+    },
+    {
+        "ID": 9217,
+        "term": "Al Manara mosque"
+    },
+    {
+        "ID": 9222,
+        "term": "NoWayOut escape room"
+    },
+    {
+        "ID": 9226,
+        "term": "Al Seef Heritage Hotel Dubai, Curio Collection by Hilton"
+    },
+    {
+        "ID": 9234,
+        "term": "DoubleTree by Hilton Dubai M Square Hotel & Residences"
+    },
+    {
+        "ID": 9236,
+        "term": "St. Trop"
+    },
+    {
+        "ID": 9264,
+        "term": "Astaghai Narai"
+    },
+    {
+        "ID": 9286,
+        "term": "Zircho Zom"
+    },
+    {
+        "ID": 9296,
+        "term": "Shaunkai Pass"
+    },
+    {
+        "ID": 9303,
+        "term": "Koh-i-Kahi"
+    },
+    {
+        "ID": 9310,
+        "term": "Isi Ghar"
+    },
+    {
+        "ID": 9311,
+        "term": "Gorapraio Kandao"
+    },
+    {
+        "ID": 9313,
+        "term": "Kanjosu Nala"
+    },
+    {
+        "ID": 9344,
+        "term": "Bozai Gumbaz"
+    },
+    {
+        "ID": 9355,
+        "term": "Darah-ye Zuryah"
+    },
+    {
+        "ID": 9393,
+        "term": "Zor Khado"
+    },
+    {
+        "ID": 9396,
+        "term": "Zulm Khel"
+    },
+    {
+        "ID": 9420,
+        "term": "Zirnich"
+    },
+    {
+        "ID": 9429,
+        "term": "Zirat"
+    },
+    {
+        "ID": 9436,
+        "term": "Chah-e Zayrak"
+    },
+    {
+        "ID": 9444,
+        "term": "Zindare Ghar"
+    },
+    {
+        "ID": 9465,
+        "term": "Ziarat Ghar"
+    },
+    {
+        "ID": 9471,
+        "term": "Ziarat-e Khwajah Katambah"
+    },
+    {
+        "ID": 9491,
+        "term": "Zhinal Ghar"
+    },
+    {
+        "ID": 9492,
+        "term": "Zhimriani"
+    },
+    {
+        "ID": 9498,
+        "term": "Zhawar Algad"
+    },
+    {
+        "ID": 9514,
+        "term": "Zirtang-e Nowrak"
+    },
+    {
+        "ID": 9534,
+        "term": "Zerah Lakay"
+    },
+    {
+        "ID": 9539,
+        "term": "Zinjan"
+    },
+    {
+        "ID": 9570,
+        "term": "Zaytabar"
+    },
+    {
+        "ID": 9575,
+        "term": "Zaynal"
+    },
+    {
+        "ID": 9579,
+        "term": "Zaylabad wa Ghulaman"
+    },
+    {
+        "ID": 9595,
+        "term": "Zowrat Darah"
+    },
+    {
+        "ID": 9603,
+        "term": "Zaw-e Dukani"
+    },
+    {
+        "ID": 9609,
+        "term": "Zowara"
+    },
+    {
+        "ID": 9621,
+        "term": "Zarzadah Mandeh"
+    },
+    {
+        "ID": 9622,
+        "term": "Zaryat-e Uluq"
+    },
+    {
+        "ID": 9626,
+        "term": "Darah-ye Zartalay"
+    },
+    {
+        "ID": 9657,
+        "term": "Zar Kharid-e 'Ulya"
+    },
+    {
+        "ID": 9670,
+        "term": "Zarif Khel"
+    },
+    {
+        "ID": 9678,
+        "term": "Zarghun Shahr"
+    },
+    {
+        "ID": 9689,
+        "term": "Zargarak"
+    },
+    {
+        "ID": 9710,
+        "term": "Zardnow"
+    },
+    {
+        "ID": 9718,
+        "term": "Jar-e Zardkamar"
+    },
+    {
+        "ID": 9725,
+        "term": "Kotal-i-Zard-i-Gao"
+    },
+    {
+        "ID": 9747,
+        "term": "Zardalu"
+    },
+    {
+        "ID": 9754,
+        "term": "Zardak Bum"
+    },
+    {
+        "ID": 9755,
+        "term": "Shelah-ye Zardak"
+    },
+    {
+        "ID": 9758,
+        "term": "Zardabah"
+    },
+    {
+        "ID": 9760,
+        "term": "Reg-e Zard"
+    },
+    {
+        "ID": 9783,
+        "term": "Zarah Kala"
+    },
+    {
+        "ID": 9786,
+        "term": "Zharah Ghbargah"
+    },
+    {
+        "ID": 9787,
+        "term": "Zarah Gerdah"
+    },
+    {
+        "ID": 9793,
+        "term": "Zanki"
+    },
+    {
+        "ID": 9799,
+        "term": "Zangitan"
+    },
+    {
+        "ID": 9842,
+        "term": "Darah-ye Zambur Khan"
+    },
+    {
+        "ID": 9854,
+        "term": "Zaman Khan Kelay"
+    },
+    {
+        "ID": 9856,
+        "term": "Zaman"
+    },
+    {
+        "ID": 9870,
+        "term": "Za Khel"
+    },
+    {
+        "ID": 9877,
+        "term": "Zakar"
+    },
+    {
+        "ID": 9899,
+        "term": "Zaghan"
+    },
+    {
+        "ID": 9900,
+        "term": "Zaghan"
+    },
+    {
+        "ID": 9901,
+        "term": "Zaghak"
+    },
+    {
+        "ID": 9918,
+        "term": "Koh-e Zab"
+    },
+    {
+        "ID": 9922,
+        "term": "Yosuf Narai Band"
+    },
+    {
+        "ID": 9935,
+        "term": "Yolatarab"
+    },
+    {
+        "ID": 9950,
+        "term": "Koh-e Yol"
+    },
+    {
+        "ID": 9958,
+        "term": "Yerganah"
+    },
+    {
+        "ID": 9973,
+        "term": "Yazamghol Ghar"
+    },
+    {
+        "ID": 9984,
+        "term": "Koh-e Yati Saluq"
+    },
+    {
+        "ID": 9990,
+        "term": "Yasin Khel"
+    },
+    {
+        "ID": 9992,
+        "term": "Yasin Dasht"
+    },
+    {
+        "ID": 9994,
+        "term": "Takh-e Yasin"
+    },
+    {
+        "ID": 10032,
+        "term": "Yangi Tashqul"
+    },
+    {
+        "ID": 10037,
+        "term": "Yang Ariq"
+    },
+    {
+        "ID": 10038,
+        "term": "Yandarak"
+    },
+    {
+        "ID": 10046,
+        "term": "Darah-ye Yamchian"
+    },
+    {
+        "ID": 10048,
+        "term": "Yamchi"
+    },
+    {
+        "ID": 10062,
+        "term": "Yaktakht Reg"
+    },
+    {
+        "ID": 10071,
+        "term": "Shikistahha-ye Yak Pahlu"
+    },
+    {
+        "ID": 10085,
+        "term": "Tagab-e Yakhshindar"
+    },
+    {
+        "ID": 10086,
+        "term": "Koh-e Yakhpusht"
+    },
+    {
+        "ID": 10087,
+        "term": "Darah-ye Yakhpusht"
+    },
+    {
+        "ID": 10118,
+        "term": "Kotal-e Yakhab"
+    },
+    {
+        "ID": 10125,
+        "term": "Darah-ye Yakashah"
+    },
+    {
+        "ID": 10134,
+        "term": "Yakah Koh"
+    },
+    {
+        "ID": 10181,
+        "term": "Worbesho Shelah"
+    },
+    {
+        "ID": 10194,
+        "term": "Koh-e Wulwast"
+    },
+    {
+        "ID": 10200,
+        "term": "Wulge"
+    },
+    {
+        "ID": 10201,
+        "term": "Wulgay"
+    },
+    {
+        "ID": 10205,
+        "term": "Wujib"
+    },
+    {
+        "ID": 10224,
+        "term": "Koh-e Wuzan"
+    },
+    {
+        "ID": 10225,
+        "term": "Biland Wuzan"
+    },
+    {
+        "ID": 10236,
+        "term": "Wurzhanah Kelay"
+    },
+    {
+        "ID": 10253,
+        "term": "Wunamak"
+    },
+    {
+        "ID": 10283,
+        "term": "Weche Mane Kotal"
+    },
+    {
+        "ID": 10298,
+        "term": "Wishtan"
+    },
+    {
+        "ID": 10301,
+        "term": "Howz-e Wighnan"
+    },
+    {
+        "ID": 10302,
+        "term": "Chashmah-ye Widak"
+    },
+    {
+        "ID": 10334,
+        "term": "Wech Kirai"
+    },
+    {
+        "ID": 10339,
+        "term": "Wech Baghtu"
+    },
+    {
+        "ID": 10427,
+        "term": "Waridze"
+    },
+    {
+        "ID": 10471,
+        "term": "Walimohd Ghar"
+    },
+    {
+        "ID": 10481,
+        "term": "Walijo Ca"
+    },
+    {
+        "ID": 10483,
+        "term": "Walidad"
+    },
+    {
+        "ID": 10498,
+        "term": "Wal"
+    },
+    {
+        "ID": 10507,
+        "term": "Wakhshi"
+    },
+    {
+        "ID": 10508,
+        "term": "Koh-e Wakhshak"
+    },
+    {
+        "ID": 10519,
+        "term": "Darah-ye Wajan"
+    },
+    {
+        "ID": 10521,
+        "term": "Wajan"
+    },
+    {
+        "ID": 10526,
+        "term": "Wahab Khano Kelay"
+    },
+    {
+        "ID": 10539,
+        "term": "Wech Ghrak Zhawerah"
+    },
+    {
+        "ID": 10544,
+        "term": "Wabuz Pa'in"
+    },
+    {
+        "ID": 10581,
+        "term": "Darya-ye Waghjir"
+    },
+    {
+        "ID": 10633,
+        "term": "Urikar"
+    },
+    {
+        "ID": 10644,
+        "term": "Or"
+    },
+    {
+        "ID": 10661,
+        "term": "Khwajah Siyaran-e 'Ulya"
+    },
+    {
+        "ID": 10667,
+        "term": "Ulghu"
+    },
+    {
+        "ID": 10686,
+        "term": "Ughur"
+    },
+    {
+        "ID": 10690,
+        "term": "`Ugdar"
+    },
+    {
+        "ID": 10701,
+        "term": "Udkak"
+    },
+    {
+        "ID": 10711,
+        "term": "Ubuk"
+    },
+    {
+        "ID": 10713,
+        "term": "Ubaghn"
+    },
+    {
+        "ID": 10717,
+        "term": "Tuyin Ghar"
+    },
+    {
+        "ID": 10729,
+        "term": "Tutak"
+    },
+    {
+        "ID": 10743,
+        "term": "Turtsum"
+    },
+    {
+        "ID": 10747,
+        "term": "Koh-e Turshkah"
+    },
+    {
+        "ID": 10760,
+        "term": "Tor Kutsi"
+    },
+    {
+        "ID": 10770,
+        "term": "Turkan"
+    },
+    {
+        "ID": 10784,
+        "term": "Kotal-e Turghan"
+    },
+    {
+        "ID": 10788,
+        "term": "Turchut"
+    },
+    {
+        "ID": 10794,
+        "term": "Turan"
+    },
+    {
+        "ID": 10797,
+        "term": "Koh-e Top-Sakhijan"
+    },
+    {
+        "ID": 10800,
+        "term": "Top Khanah Qal'ah"
+    },
+    {
+        "ID": 10813,
+        "term": "Top-e Giru"
+    },
+    {
+        "ID": 10814,
+        "term": "Top Darah"
+    },
+    {
+        "ID": 10825,
+        "term": "Tongar"
+    },
+    {
+        "ID": 10832,
+        "term": "Ton"
+    },
+    {
+        "ID": 10846,
+        "term": "Tulay Mishr Tapah"
+    },
+    {
+        "ID": 10913,
+        "term": "Tortag Ghar"
+    },
+    {
+        "ID": 10934,
+        "term": "Towkhtah"
+    },
+    {
+        "ID": 10954,
+        "term": "Torush Bab Tsah"
+    },
+    {
+        "ID": 11051,
+        "term": "Tir Koh"
+    },
+    {
+        "ID": 11065,
+        "term": "Tirak"
+    },
+    {
+        "ID": 11069,
+        "term": "Timur Qaq"
+    },
+    {
+        "ID": 11083,
+        "term": "Koh-e Taygh-e Zorian"
+    },
+    {
+        "ID": 11124,
+        "term": "Teshah"
+    },
+    {
+        "ID": 11134,
+        "term": "Tirnawah"
+    },
+    {
+        "ID": 11135,
+        "term": "Tir Muhammad"
+    },
+    {
+        "ID": 11168,
+        "term": "Tayl Qalam"
+    },
+    {
+        "ID": 11175,
+        "term": "Til-e Panjshayr"
+    },
+    {
+        "ID": 11198,
+        "term": "Tayghak Ab"
+    },
+    {
+        "ID": 11212,
+        "term": "Tazian"
+    },
+    {
+        "ID": 11218,
+        "term": "Tay Tamur"
+    },
+    {
+        "ID": 11222,
+        "term": "Tay Safed"
+    },
+    {
+        "ID": 11223,
+        "term": "Taysang"
+    },
+    {
+        "ID": 11287,
+        "term": "Tawah-ye Luchak"
+    },
+    {
+        "ID": 11289,
+        "term": "Kotal-e Tawah Shakh"
+    },
+    {
+        "ID": 11290,
+        "term": "Tawah Shakh"
+    },
+    {
+        "ID": 11292,
+        "term": "Tatu"
+    },
+    {
+        "ID": 11293,
+        "term": "Tatram Qol"
+    },
+    {
+        "ID": 11305,
+        "term": "Tatar"
+    },
+    {
+        "ID": 11308,
+        "term": "Tatah"
+    },
+    {
+        "ID": 11324,
+        "term": "Tashlugh"
+    },
+    {
+        "ID": 11328,
+        "term": "Tash Jowar"
+    },
+    {
+        "ID": 11339,
+        "term": "Chah-e Tarya"
+    },
+    {
+        "ID": 11359,
+        "term": "Tarlik"
+    },
+    {
+        "ID": 11368,
+        "term": "Darah-ye Tarikak"
+    },
+    {
+        "ID": 11370,
+        "term": "Tarikak"
+    },
+    {
+        "ID": 11374,
+        "term": "Band-e Targhay Bulaq"
+    },
+    {
+        "ID": 11393,
+        "term": "Kharabah-ye Taraqu"
+    },
+    {
+        "ID": 11410,
+        "term": "Tarakah"
+    },
+    {
+        "ID": 11445,
+        "term": "Tanorak"
+    },
+    {
+        "ID": 11452,
+        "term": "Tankhan Khel"
+    },
+    {
+        "ID": 11465,
+        "term": "Tangi Ya'qub"
+    },
+    {
+        "ID": 11482,
+        "term": "Tangi Bala"
+    },
+    {
+        "ID": 11528,
+        "term": "Tanar"
+    },
+    {
+        "ID": 11569,
+        "term": "Taluq"
+    },
+    {
+        "ID": 11584,
+        "term": "Talkhan"
+    },
+    {
+        "ID": 11590,
+        "term": "Talkhakay"
+    },
+    {
+        "ID": 11594,
+        "term": "Talkhak"
+    },
+    {
+        "ID": 11627,
+        "term": "Talib Kushtah-ye 'Ulya"
+    },
+    {
+        "ID": 11640,
+        "term": "Talah Tu"
+    },
+    {
+        "ID": 11646,
+        "term": "Talakh-e Sayb"
+    },
+    {
+        "ID": 11647,
+        "term": "Tala Khan Kala"
+    },
+    {
+        "ID": 11648,
+        "term": "Darah-ye Talahka"
+    },
+    {
+        "ID": 11660,
+        "term": "Talab-e Begum"
+    },
+    {
+        "ID": 11670,
+        "term": "Taktu"
+    },
+    {
+        "ID": 11685,
+        "term": "Takht Khulah"
+    },
+    {
+        "ID": 11705,
+        "term": "Koh-e Takht-e Khanum"
+    },
+    {
+        "ID": 11714,
+        "term": "Takht-e Dukhtar-e Padshah"
+    },
+    {
+        "ID": 11715,
+        "term": "Takht-e Darah-ye Kalan"
+    },
+    {
+        "ID": 11764,
+        "term": "Takh Chi"
+    },
+    {
+        "ID": 11800,
+        "term": "Takak"
+    },
+    {
+        "ID": 11812,
+        "term": "Tajiri"
+    },
+    {
+        "ID": 11840,
+        "term": "Tahsildar Kala"
+    },
+    {
+        "ID": 11846,
+        "term": "Tah Khel"
+    },
+    {
+        "ID": 11850,
+        "term": "Tah-e Zardargin"
+    },
+    {
+        "ID": 11873,
+        "term": "Taghir Patah"
+    },
+    {
+        "ID": 11878,
+        "term": "Taghazi Dasht"
+    },
+    {
+        "ID": 11892,
+        "term": "Koh-e Taghandak"
+    },
+    {
+        "ID": 11898,
+        "term": "Taghaylas"
+    },
+    {
+        "ID": 11925,
+        "term": "Tagab Kulat"
+    },
+    {
+        "ID": 11952,
+        "term": "Tag"
+    },
+    {
+        "ID": 11957,
+        "term": "Tachiray"
+    },
+    {
+        "ID": 11973,
+        "term": "Tabar Khel"
+    },
+    {
+        "ID": 12004,
+        "term": "Siyah Archah"
+    },
+    {
+        "ID": 12027,
+        "term": "Sursurang Tanah"
+    },
+    {
+        "ID": 12044,
+        "term": "Surmay"
+    },
+    {
+        "ID": 12046,
+        "term": "Sur Lugh"
+    },
+    {
+        "ID": 12048,
+        "term": "Sur Kian"
+    },
+    {
+        "ID": 12058,
+        "term": "Surkh Kochah"
+    },
+    {
+        "ID": 12074,
+        "term": "Sur Kani Ghar"
+    },
+    {
+        "ID": 12080,
+        "term": "Surai Gar Dasht"
+    },
+    {
+        "ID": 12089,
+        "term": "Sur Ghund"
+    },
+    {
+        "ID": 12125,
+        "term": "Rod-e Sur"
+    },
+    {
+        "ID": 12132,
+        "term": "Sunghula"
+    },
+    {
+        "ID": 12135,
+        "term": "Sundra Katsah"
+    },
+    {
+        "ID": 12139,
+        "term": "Dasht-e Sumut"
+    },
+    {
+        "ID": 12165,
+        "term": "Sokhtah-ye Muhammad Haq Akhund"
+    },
+    {
+        "ID": 12171,
+        "term": "Sokhtah Jangal"
+    },
+    {
+        "ID": 12178,
+        "term": "Sokhtah"
+    },
+    {
+        "ID": 12184,
+        "term": "Mantaqah-ye Sukalok"
+    },
+    {
+        "ID": 12186,
+        "term": "Suji-e Junubi"
+    },
+    {
+        "ID": 12203,
+        "term": "Sufi Qal'ah"
+    },
+    {
+        "ID": 12204,
+        "term": "Sufi Khel"
+    },
+    {
+        "ID": 12207,
+        "term": "Sufian"
+    },
+    {
+        "ID": 12210,
+        "term": "Sufak"
+    },
+    {
+        "ID": 12216,
+        "term": "Sochi"
+    },
+    {
+        "ID": 12230,
+        "term": "Stay Ghar"
+    },
+    {
+        "ID": 12236,
+        "term": "Sterah Mishray"
+    },
+    {
+        "ID": 12256,
+        "term": "Srah Kot Kelay"
+    },
+    {
+        "ID": 12262,
+        "term": "Sreh Dab Reg"
+    },
+    {
+        "ID": 12276,
+        "term": "Srah Maidan"
+    },
+    {
+        "ID": 12278,
+        "term": "Srah Khulah"
+    },
+    {
+        "ID": 12282,
+        "term": "Srah Kala"
+    },
+    {
+        "ID": 12292,
+        "term": "Spi Tut"
+    },
+    {
+        "ID": 12316,
+        "term": "Spin Kamar"
+    },
+    {
+        "ID": 12318,
+        "term": "Spin Dzag"
+    },
+    {
+        "ID": 12336,
+        "term": "Spinah Khulah"
+    },
+    {
+        "ID": 12340,
+        "term": "Spin Chur Nawer"
+    },
+    {
+        "ID": 12349,
+        "term": "Spinah Garah"
+    },
+    {
+        "ID": 12357,
+        "term": "Espi Ghaw"
+    },
+    {
+        "ID": 12362,
+        "term": "Spi Buz"
+    },
+    {
+        "ID": 12386,
+        "term": "Spedak"
+    },
+    {
+        "ID": 12391,
+        "term": "Spando Kats"
+    },
+    {
+        "ID": 12393,
+        "term": "Sozmah Qal'ah"
+    },
+    {
+        "ID": 12408,
+        "term": "Sust Pa'in"
+    },
+    {
+        "ID": 12412,
+        "term": "Sorwakay"
+    },
+    {
+        "ID": 12422,
+        "term": "Shoro Mandeh"
+    },
+    {
+        "ID": 12442,
+        "term": "Surkh Sarak"
+    },
+    {
+        "ID": 12462,
+        "term": "Surkh Naw"
+    },
+    {
+        "ID": 12472,
+        "term": "Darah-ye Surkh Kochah"
+    },
+    {
+        "ID": 12480,
+        "term": "Surkh Kanagak"
+    },
+    {
+        "ID": 12486,
+        "term": "Band-e Surkhi wa Korak"
+    },
+    {
+        "ID": 12488,
+        "term": "Surkhi"
+    },
+    {
+        "ID": 12507,
+        "term": "Surkhbini"
+    },
+    {
+        "ID": 12522,
+        "term": "Surkhak Chashmah"
+    },
+    {
+        "ID": 12539,
+        "term": "Surkh Ab"
+    },
+    {
+        "ID": 12542,
+        "term": "Kuh-e Sorkh"
+    },
+    {
+        "ID": 12553,
+        "term": "Joy-e Shor-e Kaltah Kay"
+    },
+    {
+        "ID": 12581,
+        "term": "Sultan Sahib"
+    },
+    {
+        "ID": 12598,
+        "term": "Sultan Haji Wali"
+    },
+    {
+        "ID": 12602,
+        "term": "Sultan Bagh"
+    },
+    {
+        "ID": 12608,
+        "term": "Sulaimanzai"
+    },
+    {
+        "ID": 12616,
+        "term": "Sulaiman Rod"
+    },
+    {
+        "ID": 12622,
+        "term": "Sulaimani"
+    },
+    {
+        "ID": 12625,
+        "term": "Sulaych"
+    },
+    {
+        "ID": 12628,
+        "term": "Sulbinak"
+    },
+    {
+        "ID": 12635,
+        "term": "Say-e Sughut"
+    },
+    {
+        "ID": 12652,
+        "term": "Sizay"
+    },
+    {
+        "ID": 12687,
+        "term": "Shinyah"
+    },
+    {
+        "ID": 12709,
+        "term": "Sinagey"
+    },
+    {
+        "ID": 12719,
+        "term": "Silabi"
+    },
+    {
+        "ID": 12725,
+        "term": "Dasht-e Sikh Sar"
+    },
+    {
+        "ID": 12745,
+        "term": "Siyah Top-e Badqaq"
+    },
+    {
+        "ID": 12781,
+        "term": "Siyah Reg"
+    },
+    {
+        "ID": 12783,
+        "term": "Siyah Qol-e Pa'in"
+    },
+    {
+        "ID": 12787,
+        "term": "Siyah Qul"
+    },
+    {
+        "ID": 12789,
+        "term": "Shiah Qarkh"
+    },
+    {
+        "ID": 12800,
+        "term": "Koh-e Siyah Now"
+    },
+    {
+        "ID": 12813,
+        "term": "Siyah Lakhak"
+    },
+    {
+        "ID": 12817,
+        "term": "Siyah Kundagh"
+    },
+    {
+        "ID": 12827,
+        "term": "Siyah Koh"
+    },
+    {
+        "ID": 12828,
+        "term": "Siyah Kohi"
+    },
+    {
+        "ID": 12836,
+        "term": "Taygh-e Siyah Khulah"
+    },
+    {
+        "ID": 12843,
+        "term": "Koh-e Siyah Khawal"
+    },
+    {
+        "ID": 12859,
+        "term": "Siyah Kharah"
+    },
+    {
+        "ID": 12864,
+        "term": "Siyah Khaki"
+    },
+    {
+        "ID": 12888,
+        "term": "Jar-e Siyah Ghar"
+    },
+    {
+        "ID": 12891,
+        "term": "Siyahgird"
+    },
+    {
+        "ID": 12913,
+        "term": "Kotal-e Siyah Chobak"
+    },
+    {
+        "ID": 12921,
+        "term": "Siyah Chob"
+    },
+    {
+        "ID": 12929,
+        "term": "Siyah Butah"
+    },
+    {
+        "ID": 12976,
+        "term": "Shor Taghay"
+    },
+    {
+        "ID": 13003,
+        "term": "Darya-ye Shor-e Ashkara"
+    },
+    {
+        "ID": 13023,
+        "term": "Shor Ariq"
+    },
+    {
+        "ID": 13033,
+        "term": "Koh-e Shorah Kharak"
+    },
+    {
+        "ID": 13059,
+        "term": "Shur Ab"
+    },
+    {
+        "ID": 13063,
+        "term": "Shor Ab"
+    },
+    {
+        "ID": 13124,
+        "term": "Sharsharah"
+    },
+    {
+        "ID": 13161,
+        "term": "Shkharo"
+    },
+    {
+        "ID": 13166,
+        "term": "Kol-e Shewah"
+    },
+    {
+        "ID": 13201,
+        "term": "Shirin Kelay"
+    },
+    {
+        "ID": 13250,
+        "term": "Sherah Bolak"
+    },
+    {
+        "ID": 13253,
+        "term": "Sherabad"
+    },
+    {
+        "ID": 13260,
+        "term": "Shinyah-ye Jangan-e Kalan"
+    },
+    {
+        "ID": 13264,
+        "term": "Shintsat Ghar"
+    },
+    {
+        "ID": 13270,
+        "term": "Shin Mandeh"
+    },
+    {
+        "ID": 13281,
+        "term": "Shinkay Kelay"
+    },
+    {
+        "ID": 13289,
+        "term": "Shin Kala"
+    },
+    {
+        "ID": 13307,
+        "term": "Shinday"
+    },
+    {
+        "ID": 13330,
+        "term": "Shege Ghar"
+    },
+    {
+        "ID": 13341,
+        "term": "Shaytanah"
+    },
+    {
+        "ID": 13357,
+        "term": "Shaykh Sang"
+    },
+    {
+        "ID": 13384,
+        "term": "Shaykhjay"
+    },
+    {
+        "ID": 13434,
+        "term": "Shashpey"
+    },
+    {
+        "ID": 13440,
+        "term": "Shesh Gav Kowtal-e"
+    },
+    {
+        "ID": 13444,
+        "term": "Shashburjah"
+    },
+    {
+        "ID": 13448,
+        "term": "Sherzai Kelay"
+    },
+    {
+        "ID": 13463,
+        "term": "Shiram"
+    },
+    {
+        "ID": 13467,
+        "term": "Shepu-ye Bala"
+    },
+    {
+        "ID": 13471,
+        "term": "Qashqal"
+    },
+    {
+        "ID": 13521,
+        "term": "Darah-ye Shaykari"
+    },
+    {
+        "ID": 13527,
+        "term": "Shihzi"
+    },
+    {
+        "ID": 13549,
+        "term": "Shaybarak-e Rah"
+    },
+    {
+        "ID": 13555,
+        "term": "Shaybar"
+    },
+    {
+        "ID": 13560,
+        "term": "Shay Naw"
+    },
+    {
+        "ID": 13595,
+        "term": "Kotal-e Shatu"
+    },
+    {
+        "ID": 13641,
+        "term": "Sharif Khel"
+    },
+    {
+        "ID": 13667,
+        "term": "Shan Rod"
+    },
+    {
+        "ID": 13669,
+        "term": "Shankarbah"
+    },
+    {
+        "ID": 13671,
+        "term": "Shanilal Ghar"
+    },
+    {
+        "ID": 13672,
+        "term": "Shani Kala"
+    },
+    {
+        "ID": 13702,
+        "term": "Rod-e Shan"
+    },
+    {
+        "ID": 13706,
+        "term": "Shamuy Tangi"
+    },
+    {
+        "ID": 13722,
+        "term": "Shamshayr Kelay"
+    },
+    {
+        "ID": 13731,
+        "term": "Koh-e Shams"
+    },
+    {
+        "ID": 13741,
+        "term": "Sham'"
+    },
+    {
+        "ID": 13763,
+        "term": "Shamali Sherak"
+    },
+    {
+        "ID": 13766,
+        "term": "Shikastah-ye Shamali Paychaki"
+    },
+    {
+        "ID": 13777,
+        "term": "Shamalano Biyaleh"
+    },
+    {
+        "ID": 13791,
+        "term": "Koh-e Shalah"
+    },
+    {
+        "ID": 13806,
+        "term": "Shalbaf"
+    },
+    {
+        "ID": 13814,
+        "term": "Shakur Kelay"
+    },
+    {
+        "ID": 13815,
+        "term": "Koh-e Sakhzard"
+    },
+    {
+        "ID": 13817,
+        "term": "Shakh Tut"
+    },
+    {
+        "ID": 13818,
+        "term": "Shakhtugak"
+    },
+    {
+        "ID": 13846,
+        "term": "Darya-ye Shakh Darah"
+    },
+    {
+        "ID": 13875,
+        "term": "Shakarawar Baba"
+    },
+    {
+        "ID": 13877,
+        "term": "Shah Karam"
+    },
+    {
+        "ID": 13888,
+        "term": "Shahzadah"
+    },
+    {
+        "ID": 13899,
+        "term": "Shah Wali"
+    },
+    {
+        "ID": 13902,
+        "term": "Shah Tut"
+    },
+    {
+        "ID": 13914,
+        "term": "Shah Sikandarah"
+    },
+    {
+        "ID": 13923,
+        "term": "Shahristan"
+    },
+    {
+        "ID": 13927,
+        "term": "Shahr-e Sagan"
+    },
+    {
+        "ID": 13931,
+        "term": "Shahr-e Now"
+    },
+    {
+        "ID": 13946,
+        "term": "Shah Rawan"
+    },
+    {
+        "ID": 13953,
+        "term": "Shahrak"
+    },
+    {
+        "ID": 13955,
+        "term": "Shahrak"
+    },
+    {
+        "ID": 13964,
+        "term": "Seh Qal'ah"
+    },
+    {
+        "ID": 13974,
+        "term": "Koh-e Shahnaw"
+    },
+    {
+        "ID": 13979,
+        "term": "Shah Mirza"
+    },
+    {
+        "ID": 14015,
+        "term": "Shahid Say"
+    },
+    {
+        "ID": 14019,
+        "term": "Shahidano Shelah"
+    },
+    {
+        "ID": 14021,
+        "term": "Shahidano Mandeh"
+    },
+    {
+        "ID": 14037,
+        "term": "Shahid"
+    },
+    {
+        "ID": 14040,
+        "term": "Shahi"
+    },
+    {
+        "ID": 14057,
+        "term": "Shah-e Wilayat Ghar"
+    },
+    {
+        "ID": 14070,
+        "term": "Darya-ye Shah-e Arman"
+    },
+    {
+        "ID": 14073,
+        "term": "Shah Darzi"
+    },
+    {
+        "ID": 14077,
+        "term": "Shah Baydak-e Pa'in"
+    },
+    {
+        "ID": 14088,
+        "term": "Shahbash"
+    },
+    {
+        "ID": 14105,
+        "term": "Shah Ab-e Kabul"
+    },
+    {
+        "ID": 14115,
+        "term": "Shaghzai Karez"
+    },
+    {
+        "ID": 14137,
+        "term": "Shad Roz"
+    },
+    {
+        "ID": 14171,
+        "term": "Shabustan"
+    },
+    {
+        "ID": 14176,
+        "term": "Shabnam"
+    },
+    {
+        "ID": 14222,
+        "term": "Sayyid Ghundey"
+    },
+    {
+        "ID": 14224,
+        "term": "Sayyidan-e Muzafari"
+    },
+    {
+        "ID": 14245,
+        "term": "Koh-e Sayyid"
+    },
+    {
+        "ID": 14296,
+        "term": "Pul-e Sherkhaj"
+    },
+    {
+        "ID": 14299,
+        "term": "Surkay Nawah"
+    },
+    {
+        "ID": 14300,
+        "term": "Sirkay Mandeh"
+    },
+    {
+        "ID": 14302,
+        "term": "Surkey Ghozhay"
+    },
+    {
+        "ID": 14329,
+        "term": "Sipalghand"
+    },
+    {
+        "ID": 14347,
+        "term": "Sandzele Shelah"
+    },
+    {
+        "ID": 14354,
+        "term": "Sinjid"
+    },
+    {
+        "ID": 14358,
+        "term": "Sangsar"
+    },
+    {
+        "ID": 14366,
+        "term": "Siltar"
+    },
+    {
+        "ID": 14372,
+        "term": "Sayl Burdah"
+    },
+    {
+        "ID": 14376,
+        "term": "Shelah-ye Murgh-e 'Ala"
+    },
+    {
+        "ID": 14383,
+        "term": "Shaykhani"
+    },
+    {
+        "ID": 14406,
+        "term": "Seh Shakh"
+    },
+    {
+        "ID": 14422,
+        "term": "Seh Pa"
+    },
+    {
+        "ID": 14426,
+        "term": "Jar-e Sehmahah"
+    },
+    {
+        "ID": 14433,
+        "term": "Seh Khulah"
+    },
+    {
+        "ID": 14443,
+        "term": "Seh Darakht"
+    },
+    {
+        "ID": 14447,
+        "term": "Seh Darah"
+    },
+    {
+        "ID": 14460,
+        "term": "Seh Biradaran"
+    },
+    {
+        "ID": 14469,
+        "term": "Sighrigh"
+    },
+    {
+        "ID": 14472,
+        "term": "Safed Qadah"
+    },
+    {
+        "ID": 14474,
+        "term": "Silsilah-ye Safed Koh"
+    },
+    {
+        "ID": 14480,
+        "term": "Safed Dewal"
+    },
+    {
+        "ID": 14496,
+        "term": "Safedalak"
+    },
+    {
+        "ID": 14498,
+        "term": "Chah-e Safedak Dubrar"
+    },
+    {
+        "ID": 14500,
+        "term": "Darah-ye Safed Ab"
+    },
+    {
+        "ID": 14502,
+        "term": "Safed Ab"
+    },
+    {
+        "ID": 14508,
+        "term": "Koh-e Safed"
+    },
+    {
+        "ID": 14519,
+        "term": "Sidqabad"
+    },
+    {
+        "ID": 14532,
+        "term": "Sayb Dalak"
+    },
+    {
+        "ID": 14541,
+        "term": "Saybak"
+    },
+    {
+        "ID": 14553,
+        "term": "Sayyad-e Allah Qol"
+    },
+    {
+        "ID": 14556,
+        "term": "Sayad"
+    },
+    {
+        "ID": 14568,
+        "term": "Sayn"
+    },
+    {
+        "ID": 14586,
+        "term": "Say-e Yakhaw"
+    },
+    {
+        "ID": 14587,
+        "term": "Sayi-Tarnava"
+    },
+    {
+        "ID": 14630,
+        "term": "Sowdagaran"
+    },
+    {
+        "ID": 14635,
+        "term": "Ziarat-e Sowabit Sahib"
+    },
+    {
+        "ID": 14651,
+        "term": "Shastakah"
+    },
+    {
+        "ID": 14655,
+        "term": "Sarzibi"
+    },
+    {
+        "ID": 14658,
+        "term": "Sar Wulah"
+    },
+    {
+        "ID": 14659,
+        "term": "Sarwig Khwar"
+    },
+    {
+        "ID": 14666,
+        "term": "Sarwan Tepah"
+    },
+    {
+        "ID": 14668,
+        "term": "Sarwan Khel"
+    },
+    {
+        "ID": 14671,
+        "term": "Sarwan"
+    },
+    {
+        "ID": 14681,
+        "term": "Dasht-e Sartom"
+    },
+    {
+        "ID": 14696,
+        "term": "Shelah-ye Sar Takht"
+    },
+    {
+        "ID": 14699,
+        "term": "Sar Takht"
+    },
+    {
+        "ID": 14713,
+        "term": "Sar Shelah"
+    },
+    {
+        "ID": 14731,
+        "term": "Shelah-ye Sarsabad"
+    },
+    {
+        "ID": 14734,
+        "term": "Sarrak"
+    },
+    {
+        "ID": 14745,
+        "term": "Sar Qad"
+    },
+    {
+        "ID": 14747,
+        "term": "Sarposh"
+    },
+    {
+        "ID": 14765,
+        "term": "Sarnay"
+    },
+    {
+        "ID": 14777,
+        "term": "Sar Mashhad"
+    },
+    {
+        "ID": 14779,
+        "term": "Darah-ye Sarma Qol"
+    },
+    {
+        "ID": 14783,
+        "term": "Koh-e Sar Lukah"
+    },
+    {
+        "ID": 14786,
+        "term": "Pushtah-ye Sarkuki"
+    },
+    {
+        "ID": 14798,
+        "term": "Koh-e Sar Khash"
+    },
+    {
+        "ID": 14800,
+        "term": "Sarkham-e Chashmah"
+    },
+    {
+        "ID": 14805,
+        "term": "Sarkar Waleh"
+    },
+    {
+        "ID": 14809,
+        "term": "Sar Kari Kala"
+    },
+    {
+        "ID": 14810,
+        "term": "Sar Kani"
+    },
+    {
+        "ID": 14825,
+        "term": "Sarjan Kasah"
+    },
+    {
+        "ID": 14831,
+        "term": "Sar Jaghatalah"
+    },
+    {
+        "ID": 14833,
+        "term": "Sar-e Qashqah"
+    },
+    {
+        "ID": 14839,
+        "term": "Sar Holang"
+    },
+    {
+        "ID": 14865,
+        "term": "Koh-e Sar Galah-ye Chukhak"
+    },
+    {
+        "ID": 14872,
+        "term": "Koh-e Sar-e Zindan"
+    },
+    {
+        "ID": 14894,
+        "term": "Sarit Ghar"
+    },
+    {
+        "ID": 14909,
+        "term": "Koh-e Sar-e Surkhi"
+    },
+    {
+        "ID": 14911,
+        "term": "Sar-e Shurawak"
+    },
+    {
+        "ID": 14922,
+        "term": "Sar-e Shahr"
+    },
+    {
+        "ID": 14930,
+        "term": "Sar-e Sang Ab"
+    },
+    {
+        "ID": 14933,
+        "term": "Sar-e Rast Kaman"
+    },
+    {
+        "ID": 14938,
+        "term": "Sar-e Qomah Ghay"
+    },
+    {
+        "ID": 14966,
+        "term": "Sar-e Maidan"
+    },
+    {
+        "ID": 14982,
+        "term": "Sar-e Kotal"
+    },
+    {
+        "ID": 14984,
+        "term": "Sar-e Koryah"
+    },
+    {
+        "ID": 14990,
+        "term": "Sar-e Khar"
+    },
+    {
+        "ID": 15002,
+        "term": "Sar-e Kalan"
+    },
+    {
+        "ID": 15021,
+        "term": "Sar-e Gulkhar"
+    },
+    {
+        "ID": 15038,
+        "term": "Sar-e Dasht"
+    },
+    {
+        "ID": 15068,
+        "term": "Band-e Sar-e Asp"
+    },
+    {
+        "ID": 15079,
+        "term": "Darah-ye Sar Aw"
+    },
+    {
+        "ID": 15089,
+        "term": "Rud-e Sar Deh"
+    },
+    {
+        "ID": 15137,
+        "term": "Sarbarghas"
+    },
+    {
+        "ID": 15147,
+        "term": "Sar Banadir"
+    },
+    {
+        "ID": 15153,
+        "term": "Sar Badal Khulah"
+    },
+    {
+        "ID": 15199,
+        "term": "Sarah Ghbargah"
+    },
+    {
+        "ID": 15207,
+        "term": "Sarab"
+    },
+    {
+        "ID": 15214,
+        "term": "Saqi"
+    },
+    {
+        "ID": 15216,
+        "term": "Saqaw Ghar"
+    },
+    {
+        "ID": 15241,
+        "term": "Sang Zard"
+    },
+    {
+        "ID": 15257,
+        "term": "Sangi Sar"
+    },
+    {
+        "ID": 15267,
+        "term": "Sango"
+    },
+    {
+        "ID": 15270,
+        "term": "Sanglech"
+    },
+    {
+        "ID": 15282,
+        "term": "Sang Kushtah"
+    },
+    {
+        "ID": 15299,
+        "term": "Sang Gosh"
+    },
+    {
+        "ID": 15335,
+        "term": "Sang-e Mashah"
+    },
+    {
+        "ID": 15347,
+        "term": "Sang-e Hajah"
+    },
+    {
+        "ID": 15348,
+        "term": "Koh-e Sang-e Ghaltan"
+    },
+    {
+        "ID": 15357,
+        "term": "Sang-e Dar"
+    },
+    {
+        "ID": 15363,
+        "term": "Sang-e Ab Paran"
+    },
+    {
+        "ID": 15368,
+        "term": "Sang Darreh"
+    },
+    {
+        "ID": 15388,
+        "term": "Sangaw"
+    },
+    {
+        "ID": 15440,
+        "term": "Sanow Gird"
+    },
+    {
+        "ID": 15441,
+        "term": "Sana Rud"
+    },
+    {
+        "ID": 15465,
+        "term": "Shami"
+    },
+    {
+        "ID": 15472,
+        "term": "Samar Qandian"
+    },
+    {
+        "ID": 15494,
+        "term": "Shamali Sperah Ghar"
+    },
+    {
+        "ID": 15498,
+        "term": "Samakay"
+    },
+    {
+        "ID": 15529,
+        "term": "Shalizarah"
+    },
+    {
+        "ID": 15532,
+        "term": "Salim Khel"
+    },
+    {
+        "ID": 15539,
+        "term": "Dasht-e Saliyan"
+    },
+    {
+        "ID": 15550,
+        "term": "Salihan"
+    },
+    {
+        "ID": 15556,
+        "term": "Sal Bartu"
+    },
+    {
+        "ID": 15561,
+        "term": "Salawat"
+    },
+    {
+        "ID": 15567,
+        "term": "Salangi"
+    },
+    {
+        "ID": 15569,
+        "term": "Kotal-e Salang"
+    },
+    {
+        "ID": 15572,
+        "term": "Salam Khel"
+    },
+    {
+        "ID": 15595,
+        "term": "Saksadeh"
+    },
+    {
+        "ID": 15596,
+        "term": "Sar Kuro"
+    },
+    {
+        "ID": 15598,
+        "term": "Sako"
+    },
+    {
+        "ID": 15602,
+        "term": "Sakini"
+    },
+    {
+        "ID": 15615,
+        "term": "Sakhi Jay"
+    },
+    {
+        "ID": 15618,
+        "term": "Sakhi 'Abdurrahman"
+    },
+    {
+        "ID": 15624,
+        "term": "Shakhatarah"
+    },
+    {
+        "ID": 15630,
+        "term": "Sakh"
+    },
+    {
+        "ID": 15643,
+        "term": "Salayli Kamar"
+    },
+    {
+        "ID": 15651,
+        "term": "Dasht-e Sahra"
+    },
+    {
+        "ID": 15652,
+        "term": "Darah-ye Sahra"
+    },
+    {
+        "ID": 15653,
+        "term": "Sahor"
+    },
+    {
+        "ID": 15681,
+        "term": "Shah Barat"
+    },
+    {
+        "ID": 15694,
+        "term": "Say-e Saghnaq"
+    },
+    {
+        "ID": 15698,
+        "term": "Koh-e Saghar Rah"
+    },
+    {
+        "ID": 15731,
+        "term": "Koh-e Safandow"
+    },
+    {
+        "ID": 15741,
+        "term": "Sadrabad"
+    },
+    {
+        "ID": 15743,
+        "term": "Sadozai"
+    },
+    {
+        "ID": 15746,
+        "term": "Sado Khan"
+    },
+    {
+        "ID": 15756,
+        "term": "Sa'd Khan"
+    },
+    {
+        "ID": 15764,
+        "term": "Sad Dawa'i"
+    },
+    {
+        "ID": 15775,
+        "term": "Shelah-ye Sabz Ziarat"
+    },
+    {
+        "ID": 15785,
+        "term": "Sabz Naw"
+    },
+    {
+        "ID": 15789,
+        "term": "Pozah-ye Sowzluk"
+    },
+    {
+        "ID": 15804,
+        "term": "Shelah-ye Sabz Darakht"
+    },
+    {
+        "ID": 15814,
+        "term": "Tagab-e Sabzak"
+    },
+    {
+        "ID": 15817,
+        "term": "Kotal-e Sabzak"
+    },
+    {
+        "ID": 15830,
+        "term": "Chashmah-ye Sabz"
+    },
+    {
+        "ID": 15833,
+        "term": "Jar-e Saburkhanah"
+    },
+    {
+        "ID": 15858,
+        "term": "Ruzqan Jare"
+    },
+    {
+        "ID": 15870,
+        "term": "Ruti"
+    },
+    {
+        "ID": 15885,
+        "term": "Rukhah"
+    },
+    {
+        "ID": 15889,
+        "term": "Roji Khel"
+    },
+    {
+        "ID": 15901,
+        "term": "Jar-e Roghani"
+    },
+    {
+        "ID": 15905,
+        "term": "Ruf"
+    },
+    {
+        "ID": 15924,
+        "term": "Rud"
+    },
+    {
+        "ID": 15930,
+        "term": "Ruy Darah"
+    },
+    {
+        "ID": 15933,
+        "term": "Royanchah"
+    },
+    {
+        "ID": 15936,
+        "term": "Roshanzi"
+    },
+    {
+        "ID": 15989,
+        "term": "Rabat-e Khushk Awah"
+    }
+]
